@@ -6,7 +6,6 @@ const nextConfig: NextConfig = {
   },
 
   trailingSlash: true,
-
   reactStrictMode: true,
 
   serverExternalPackages: ["@napi-rs/canvas", "pdfjs-dist"],

@@ -1,9 +1,19 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getStorage } from "firebase-admin/storage";
 import { createCanvas } from "@napi-rs/canvas";
-import * as pdfjsLib from "pdfjs-dist/legacy/build/pdf.mjs";
 import { adminAuth, adminDb } from "@/firebase/Admin";
 import { Timestamp } from "firebase-admin/firestore";
+import * as pdfjsLib from "pdfjs-dist/legacy/build/pdf.mjs";
+import { createRequire } from "node:module";
+import { pathToFileURL } from "node:url";
+
+const nodeRequire = createRequire(`${process.cwd()}/package.json`);
+
+const pdfWorkerPath = nodeRequire.resolve(
+  "pdfjs-dist/legacy/build/pdf.worker.mjs"
+);
+
+pdfjsLib.GlobalWorkerOptions.workerSrc = pathToFileURL(pdfWorkerPath).href;
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
