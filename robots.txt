@@ -1,0 +1,192 @@
+# robots.txt — ahmadbasit.com
+# Last Updated: 2026-06-14
+# Generated for: https://ahmadbasit.com
+
+# -------------------------------------------------------
+# ALLOW ALL GENERAL CRAWLERS
+# -------------------------------------------------------
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /private/
+
+# -------------------------------------------------------
+# GOOGLE
+# -------------------------------------------------------
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: APIs-Google
+Allow: /
+
+# -------------------------------------------------------
+# BING / MICROSOFT
+# -------------------------------------------------------
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: msnbot-media
+Allow: /
+
+User-agent: Adidxbot
+Allow: /
+
+# -------------------------------------------------------
+# OTHER MAJOR SEARCH ENGINES
+# -------------------------------------------------------
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Sogou
+Allow: /
+
+User-agent: Exabot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+# -------------------------------------------------------
+# AI AGENTS & LLM CRAWLERS (ALL ALLOWED)
+# -------------------------------------------------------
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: PetalBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: omgili
+Allow: /
+
+User-agent: omgilibot
+Allow: /
+
+User-agent: friendlycrawler
+Allow: /
+
+User-agent: ISSCyberRiskCrawler
+Allow: /
+
+# -------------------------------------------------------
+# SEO TOOLS
+# -------------------------------------------------------
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: rogerbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Screaming Frog SEO
+Allow: /
+
+# -------------------------------------------------------
+# AI REFERENCE FILES
+# -------------------------------------------------------
+# AI agents: see https://ahmadbasit.com/llms.txt
+# Full reference: https://ahmadbasit.com/llms-full.txt
+# AI Policy: https://ahmadbasit.com/ai-policy.txt
+# Security: https://ahmadbasit.com/security.txt
+
+# -------------------------------------------------------
+# SITEMAP
+# -------------------------------------------------------
+
+Sitemap: https://ahmadbasit.com/sitemap.xml

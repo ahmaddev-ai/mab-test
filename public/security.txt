@@ -1,0 +1,78 @@
+# Security Policy — Mian Ahmad Basit Technology
+# https://ahmadbasit.com/security.txt
+# Follows RFC 9116 (https://www.rfc-editor.org/rfc/rfc9116)
+# Last Updated: 2026-06-14
+
+# -------------------------------------------------------
+# SECURITY CONTACT
+# -------------------------------------------------------
+# If you discover a security vulnerability or have a
+# security concern related to ahmadbasit.com or any
+# associated services, please reach out via:
+
+Contact: https://ahmadbasit.com/contact
+
+# -------------------------------------------------------
+# SCOPE
+# -------------------------------------------------------
+# This policy applies to:
+
+# In Scope:
+#   - https://ahmadbasit.com
+#   - All subdomains of ahmadbasit.com
+#   - Products and services hosted by Mian Ahmad Basit Technology
+
+# Out of Scope:
+#   - Third-party services and integrations
+#   - Social media profiles
+#   - Services not hosted on ahmadbasit.com
+
+# -------------------------------------------------------
+# PREFERRED LANGUAGES
+# -------------------------------------------------------
+
+Preferred-Languages: en, ur
+
+# -------------------------------------------------------
+# DISCLOSURE POLICY
+# -------------------------------------------------------
+# We follow responsible disclosure. Please:
+#
+#   1. Report vulnerabilities privately before public disclosure
+#   2. Allow reasonable time (30 days) for us to address the issue
+#   3. Do not exploit vulnerabilities or access user data
+#   4. Do not perform DoS or destructive testing
+#
+# We appreciate good-faith security researchers and will
+# acknowledge your contribution if you wish.
+
+# -------------------------------------------------------
+# ENCRYPTION
+# -------------------------------------------------------
+# For sensitive security reports, you may encrypt your
+# message. Contact us first to request a public key.
+
+# -------------------------------------------------------
+# CANONICAL URL
+# -------------------------------------------------------
+
+Canonical: https://ahmadbasit.com/security.txt
+
+# -------------------------------------------------------
+# AI & CRAWLER POLICY
+# -------------------------------------------------------
+# For AI crawling and usage policies, see:
+# https://ahmadbasit.com/ai-policy.txt
+
+# -------------------------------------------------------
+# POLICY EXPIRATION
+# -------------------------------------------------------
+
+Expires: 2027-06-14T00:00:00.000Z
+
+# -------------------------------------------------------
+# METADATA
+# -------------------------------------------------------
+# Version:      1.0
+# Last Updated: 2026-06-14
+# Standard:     RFC 9116

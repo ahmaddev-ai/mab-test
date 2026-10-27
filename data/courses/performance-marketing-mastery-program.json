@@ -1,0 +1,1078 @@
+{
+  "slug": "performance-marketing-mastery-program",
+  "seo": {
+    "title": "Performance Marketing Mastery Program",
+    "description": "An 8-month Performance Marketing course covering Meta Ads, Google Ads, SEO, YouTube, email marketing, Etsy, AI automation, live projects, internship, LMS access, and certification.",
+    "canonical": "/performance-marketing-mastery-program"
+  },
+  "layout": [
+    "videos",
+    "instructors",
+    "highlights",
+    "roadmap",
+    "curriculum",
+    "tools",
+    "simulator",
+    "security",
+    "stack",
+    "career",
+    "bonuses",
+    "diagnostic",
+    "faq",
+    "finalCta"
+  ],
+  "nav": [
+    { "id": "hero", "label": "Overview", "short": "Top" },
+    { "id": "videos", "label": "Watch", "short": "Watch" },
+    { "id": "instructors", "label": "Instructor", "short": "Mentor" },
+    { "id": "highlights", "label": "Why this program", "short": "Why" },
+    { "id": "roadmap", "label": "Roadmap", "short": "Path" },
+    { "id": "curriculum", "label": "Curriculum", "short": "Syllabus" },
+    { "id": "tools", "label": "Tools", "short": "Tools" },
+    { "id": "simulator", "label": "Campaign simulator", "short": "Sim" },
+    { "id": "security", "label": "Best practices", "short": "Practice" },
+    { "id": "stack", "label": "Marketing stack", "short": "Stack" },
+    { "id": "career", "label": "Outcomes", "short": "Career" },
+    { "id": "bonuses", "label": "Bonuses", "short": "Bonus" },
+    { "id": "faq", "label": "FAQ", "short": "FAQ" }
+  ],
+  "offer": {
+    "enabled": false,
+    "discountPercent": 10,
+    "code": "MARKETING10",
+    "endsAt": "2026-12-31T23:59:59+05:00",
+    "headline": "Special offer for the next cohort",
+    "subtext": "Enroll before the timer ends and mention the code in your application.",
+    "disclaimer": "Offer valid until the timer ends. Seats are limited."
+  },
+  "enrollment": {
+    "recipient": "ahmadhasandevai@gmail.com",
+    "formTitle": "Enroll Now - Performance Marketing Mastery Program",
+    "eyebrow": "Next cohort",
+    "heading": "Enroll now",
+    "subtitle": "Performance Marketing Mastery Program",
+    "thankYouPath": "/thank-you",
+    "thankYouTitle": "Thank You!",
+    "thankYouMessage": "Your enrollment request has been received successfully. Our team will contact you shortly."
+  },
+  "syllabus": {
+    "title": "Download the full course outline (PDF)",
+    "description": "Save every level, book, module and topic to your device.",
+    "href": "/performance-marketing-mastery-program-syllabus.pdf",
+    "filename": "Performance-Marketing-Mastery-Syllabus.pdf",
+    "button": "Download outline PDF"
+  },
+  "hero": {
+    "leadBadge": "8-month program with certification",
+    "kicker": "From your first ad to a certified performance marketer.",
+    "title": "Performance Marketing",
+    "titleAccent": "Mastery Program",
+    "highlight": "{modules} books, 2 levels, and one practical path from paid ads to organic growth.",
+    "description": "An 8-month hands-on program covering Meta Ads, Google Ads, SEO, YouTube, email marketing, Etsy and AI automation. You will run live projects, complete a 2-month internship and finish with LMS access and certification.",
+    "primaryCta": "Apply for the next cohort",
+    "secondaryCta": { "label": "Explore curriculum", "href": "#curriculum" },
+    "tertiaryCta": {
+      "label": "Try the campaign simulator",
+      "href": "#simulator"
+    },
+    "chips": [
+      "Meta Ads 2026",
+      "Google Ads",
+      "SEO & YouTube",
+      "Email Marketing",
+      "AI Automation",
+      "Etsy & Digital Products"
+    ],
+    "journeyTitle": "Your learning path",
+    "journey": [
+      "Paid Marketing",
+      "Tracking",
+      "Creative Strategy",
+      "Google Ads",
+      "AI Automation",
+      "Programmatic",
+      "SEO",
+      "YouTube",
+      "Email",
+      "Digital Products",
+      "Internship",
+      "Certification"
+    ],
+    "stats": [
+      { "value": "8 months", "label": "Full program" },
+      { "value": "2", "label": "Semesters" },
+      { "value": "3 / week", "label": "Classes every week" },
+      { "value": "2 months", "label": "Internship" }
+    ]
+  },
+  "videos": {
+    "heading": "See the program in action",
+    "description": "Short clips from live classes, campaign walkthroughs and student results.",
+    "items": [
+      {
+        "title": "50,000+ students trained",
+        "subtitle": "Join MAB Programs",
+        "url": "https://youtube.com/shorts/u_kKBChFG48",
+        "thumbnail": "",
+        "orientation": "portrait"
+      },
+      {
+        "title": "Production LLM & Agentic AI Engineering",
+        "subtitle": "Mian Ahmad Basit",
+        "url": "https://youtube.com/shorts/5B2eaIPISk8",
+        "thumbnail": "",
+        "orientation": "portrait"
+      },
+      {
+        "title": "Stop writing bad prompt",
+        "subtitle": "Mian Ahmad Basit",
+        "url": "https://youtube.com/shorts/QKjlLySkJ3M",
+        "thumbnail": "",
+        "orientation": "portrait"
+      },
+      {
+        "title": "AI, Deep Learning & LLM Engineering",
+        "subtitle": "Mian Ahmad Basit",
+        "url": "https://youtube.com/shorts/_jr9Jzxvntk",
+        "thumbnail": "",
+        "orientation": "portrait"
+      },
+      {
+        "title": "Success story: Software Engineering with AI",
+        "subtitle": "Mian Ahmad Basit",
+        "url": "https://youtube.com/shorts/XI4KEJ8G0tg",
+        "thumbnail": "",
+        "orientation": "portrait"
+      },
+      {
+        "title": "Success story: Python & Agentic AI Engineer",
+        "subtitle": "Mian Ahmad Basit",
+        "url": "https://youtube.com/shorts/n3vTTteU7RM",
+        "thumbnail": "",
+        "orientation": "portrait"
+      }
+    ]
+  },
+  "highlights": {
+    "heading": "Everything you need to run campaigns that perform",
+    "description": "Paid ads, organic growth, AI automation, analytics and client work in one structured program.",
+    "items": [
+      {
+        "icon": "target",
+        "color": "cyan",
+        "title": "Paid performance marketing",
+        "description": "Meta Ads, Google Ads, media buying, conversion tracking and campaign optimization"
+      },
+      {
+        "icon": "search",
+        "color": "emerald",
+        "title": "Organic growth channels",
+        "description": "SEO, content creation, local SEO, eCommerce SEO, YouTube growth and monetization"
+      },
+      {
+        "icon": "bot",
+        "color": "violet",
+        "title": "AI automation for marketers",
+        "description": "ChatGPT, AI clone workflows, marketing agents, Go HighLevel, Zapier, n8n and reporting automation"
+      },
+      {
+        "icon": "chart",
+        "color": "blue",
+        "title": "Analytics and tracking",
+        "description": "Pixel, CAPI, GA4, GTM, attribution, offline conversions, dashboards and practical reporting"
+      },
+      {
+        "icon": "briefcase",
+        "color": "orange",
+        "title": "Freelancing and agency growth",
+        "description": "Client hunting, proposals, pricing, audits, retention, reporting and interview preparation"
+      },
+      {
+        "icon": "store",
+        "color": "indigo",
+        "title": "Digital products and commerce",
+        "description": "Etsy, POD, digital products, Gumroad, logistics, product launch and promotion workflows"
+      }
+    ],
+    "includesTitle": "What is included",
+    "includes": [
+      "8 books across 2 levels",
+      "Meta Ads: 41 chapters",
+      "Google Ads: 15 modules",
+      "SEO: 12 modules",
+      "YouTube: 12 modules",
+      "Quizzes and assignments",
+      "Live project evaluations",
+      "85% attendance required for certification"
+    ]
+  },
+  "roadmap": {
+    "heading": "Your path from first campaign to certification",
+    "description": "Pick a level to see its books, skills, tools and checkpoints.",
+    "cta": "Enroll in the program"
+  },
+  "curriculum": {
+    "heading": "The complete course outline",
+    "description": "Every book, module and topic, organised by level. Search or filter to find exactly what you need.",
+    "searchPlaceholder": "Search topics (Pixel, PMax, GA4, schema, Etsy, n8n...)"
+  },
+  "tools": {
+    "heading": "Tools and platforms you will use",
+    "description": "Learn on the real platforms agencies and brands use every day.",
+    "items": [
+      {
+        "icon": "/services/digital-marketing.webp",
+        "title": "Facebook, Instagram, Messenger, WhatsApp",
+        "name": "Meta Ads",
+        "category": "Paid social",
+        "detail": "Business Manager, Ads Manager, Pixel, CAPI, audiences, creatives, retargeting, lead generation and campaign scaling."
+      },
+      {
+        "icon": "/products/google-ads.webp",
+        "title": "Search, Display, YouTube, Shopping, PMax",
+        "name": "Google Ads",
+        "category": "Performance advertising",
+        "detail": "Conversion setup, keyword strategy, bidding, Google Ads Editor, scripts, Demand Gen, app campaigns and reporting."
+      },
+      {
+        "icon": "/products/digital-strategy.webp",
+        "title": "AI clone, generative AI, Go HighLevel",
+        "name": "ChatGPT & Marketing AI",
+        "category": "AI automation",
+        "detail": "Golden sessions on AI clone workflows, marketing agents, generative AI and Go HighLevel automation mastery."
+      },
+      {
+        "icon": "/products/media-plan.webp",
+        "title": "DV360, CM360, DMP, Power BI",
+        "name": "Programmatic stack",
+        "category": "Advanced media buying",
+        "detail": "Programmatic campaign planning, CRO, Campaign Manager 360, CRM mastery, DMP and AI data engineering with Power BI."
+      },
+      {
+        "icon": "/blogs/marketing.webp",
+        "title": "Ahrefs, SEMrush, Screaming Frog, SurferSEO",
+        "name": "SEO tooling",
+        "category": "Organic growth",
+        "detail": "Keyword research, site architecture, technical SEO, backlinks, analytics, automation and client-ready audits."
+      },
+      {
+        "icon": "/products/agency-kit.webp",
+        "title": "Canva, Zapier, n8n, Gumroad, Etsy",
+        "name": "Creator & commerce tools",
+        "category": "Digital products",
+        "detail": "Mobile production, thumbnails, email automation, print-on-demand, Etsy listings, Gumroad backup stores and launch contests."
+      }
+    ],
+    "providersTitle": "Your marketing stack",
+    "providers": [
+      {
+        "title": "Paid acquisition stack",
+        "subtitle": "Media buying, tracking and optimization",
+        "tools": [
+          {
+            "name": "Meta Ads",
+            "body": "Funnels, creative strategy, audiences, lead generation, CAPI, retargeting and scaling."
+          },
+          {
+            "name": "Google Ads",
+            "body": "Search, Display, Shopping, PMax, Demand Gen, YouTube, app install and reporting."
+          },
+          {
+            "name": "GA4 & GTM",
+            "body": "Analytics, conversion tracking, enhanced conversions, call tracking and event setup."
+          },
+          {
+            "name": "Google Ads Editor",
+            "body": "Bulk editing, filters, custom rules and campaign management workflows."
+          }
+        ]
+      },
+      {
+        "title": "Organic, AI & commerce stack",
+        "subtitle": "SEO, automation, content and digital products",
+        "tools": [
+          {
+            "name": "Ahrefs / SEMrush / Screaming Frog",
+            "body": "Keyword research, competitor gaps, audits, technical SEO and reporting."
+          },
+          {
+            "name": "ChatGPT / AI automation",
+            "body": "AI clone workflows, content automation, digital marketing agents and Go HighLevel."
+          },
+          {
+            "name": "Canva / YouTube Studio",
+            "body": "Mobile production, thumbnails, faceless content and channel growth assets."
+          },
+          {
+            "name": "Etsy / Gumroad / POD",
+            "body": "Digital products, print-on-demand, backup stores, launch workflows and logistics."
+          }
+        ]
+      }
+    ]
+  },
+  "simulator": {
+    "heading": "See how a campaign moves from brief to client report",
+    "description": "Run the live trace to watch tracking checks, creative testing, media planning and reporting come together.",
+    "topics": [
+      "Campaign planning",
+      "Tracking and attribution",
+      "Creative testing",
+      "Client reporting"
+    ],
+    "defaultPrompt": "Plan a lead generation campaign for a local clinic with a small daily budget across Meta, Google Search and email follow-up.",
+    "logs": [
+      "[Campaign Brief] Collecting offer, audience, budget, and conversion goal.",
+      "[Tracking Check] Pixel, CAPI, GA4, GTM, and conversion actions reviewed.",
+      "[Creative Lab] Hooks, angles, thumbnails, and ad copy variants prepared.",
+      "[Media Plan] Meta, Google Search, PMax, YouTube, SEO, and email mapped.",
+      "[Optimization] CTR, CPC, CPA, ROAS, search terms, and retention signals monitored.",
+      "[Reporting] Client-ready dashboard, next steps, owners, and priority tracker updated."
+    ],
+    "steps": [
+      {
+        "title": "Campaign brief",
+        "body": "Define business type, funnel, offer, audience, budget and practical campaign objective."
+      },
+      {
+        "title": "Tracking & launch",
+        "body": "Set up pixels, conversion actions, enhanced tracking, UTM parameters and clean reporting paths."
+      },
+      {
+        "title": "Testing & optimization",
+        "body": "Run creative tests, keyword checks, budget pacing, automated rules and performance reviews."
+      },
+      {
+        "title": "Client reporting",
+        "body": "Present campaign results with learnings, next steps, templates and certification project evidence."
+      }
+    ],
+    "cta": {
+      "title": "Want to run campaigns like this yourself?",
+      "text": "Get the full course outline and join the next cohort.",
+      "button": "Get the full outline"
+    }
+  },
+  "security": {
+    "heading": "Tracking, account safety and optimization discipline",
+    "description": "The habits that separate campaigns that scale from campaigns that get banned or wasted.",
+    "coveredIn": "Practiced across Level 1 (Paid Marketing) and Level 2 (Organic & Advanced Platforms)",
+    "cards": [
+      {
+        "title": "Tracking & attribution",
+        "subtitle": "Pixel, CAPI, GA4, GTM",
+        "body": "Set up conversion events, offline conversions, enhanced conversions, URL parameters, call tracking and reporting checks."
+      },
+      {
+        "title": "Policy & account safety",
+        "subtitle": "Do's, don'ts, roles, billing",
+        "body": "Handle Meta policies, ad rejections, access management, billing issues, payment settings and account structure."
+      },
+      {
+        "title": "Optimization discipline",
+        "subtitle": "Testing, pacing, reporting",
+        "body": "Use creative testing, budget pacing, automated rules, search term reviews, PMax insights and campaign optimization checklists."
+      },
+      {
+        "title": "Certification readiness",
+        "subtitle": "Quizzes, assignments, capstones",
+        "body": "Complete module quizzes, assignments, live project tracking, capstone submissions, attendance and practical evaluations."
+      }
+    ]
+  },
+  "stack": {
+    "heading": "Master the full marketing stack",
+    "description": "From ad platforms and analytics to SEO, automation and commerce tools.",
+    "searchPlaceholder": "Search tools (Meta Ads, GA4, Ahrefs, n8n, Etsy...)",
+    "categories": [
+      {
+        "category": "Paid Ads Platforms",
+        "tools": [
+          {
+            "name": "Meta Ads",
+            "badge": "Core",
+            "body": "Facebook, Instagram, Messenger, WhatsApp, Pixel, CAPI, retargeting and lead generation."
+          },
+          {
+            "name": "Google Ads",
+            "badge": "Core",
+            "body": "Search, Display, YouTube, Shopping, Performance Max, Demand Gen and app campaigns."
+          },
+          {
+            "name": "DV360",
+            "badge": "Core",
+            "body": "Programmatic media buying and advanced platform execution."
+          },
+          {
+            "name": "Campaign Manager 360",
+            "badge": "Core",
+            "body": "Campaign measurement, management and reporting for advanced media activity."
+          }
+        ]
+      },
+      {
+        "category": "Analytics & Tracking",
+        "tools": [
+          {
+            "name": "GA4",
+            "badge": "Core",
+            "body": "Analytics, events, traffic source analysis and reporting."
+          },
+          {
+            "name": "GTM",
+            "badge": "Core",
+            "body": "Tag management for enhanced conversions, remarketing, call tracking and event setup."
+          },
+          {
+            "name": "Meta Pixel",
+            "badge": "Core",
+            "body": "Dataset tracking, event management, audiences and optimization signals."
+          },
+          {
+            "name": "Conversion API",
+            "badge": "Core",
+            "body": "Server-side tracking for improved data reliability."
+          },
+          {
+            "name": "Power BI",
+            "badge": "Core",
+            "body": "AI data engineering and marketer-friendly dashboards."
+          }
+        ]
+      },
+      {
+        "category": "SEO & Content",
+        "tools": [
+          {
+            "name": "Ahrefs",
+            "badge": "Core",
+            "body": "Keyword research, backlink analysis and competitor gap study."
+          },
+          {
+            "name": "SEMrush",
+            "badge": "Core",
+            "body": "SEO research, audits and competitive analysis."
+          },
+          {
+            "name": "Screaming Frog",
+            "badge": "Core",
+            "body": "Technical SEO crawling and audit workflows."
+          },
+          {
+            "name": "SurferSEO",
+            "badge": "Core",
+            "body": "Content optimization with AI-assisted workflows."
+          },
+          {
+            "name": "Google Search Console",
+            "badge": "Core",
+            "body": "Indexing, search performance and site issue analysis."
+          }
+        ]
+      },
+      {
+        "category": "Automation & Commerce",
+        "tools": [
+          {
+            "name": "ChatGPT",
+            "badge": "Core",
+            "body": "AI strategy, content, automation and marketing agent workflows."
+          },
+          {
+            "name": "Go HighLevel",
+            "badge": "Core",
+            "body": "Marketing automation and CRM workflow mastery."
+          },
+          {
+            "name": "Zapier / n8n",
+            "badge": "Core",
+            "body": "Lead nurturing, reporting, SEO automation and campaign workflows."
+          },
+          {
+            "name": "Canva",
+            "badge": "Core",
+            "body": "Creative assets, thumbnails and digital product visuals."
+          },
+          {
+            "name": "Etsy",
+            "badge": "Core",
+            "body": "Seller setup, POD, digital products, coupons, ads and product launches."
+          },
+          {
+            "name": "Gumroad",
+            "badge": "Core",
+            "body": "Backup digital product store and extra income stream."
+          }
+        ]
+      }
+    ]
+  },
+  "instructors": {
+    "heading": "Learn from a practitioner",
+    "description": "Mian Ahmad Basit leads the golden sessions on AI-driven marketing and email automation.",
+    "lead": {
+      "name": "Mian Ahmad Basit",
+      "role": "Golden sessions instructor",
+      "headline": "AI Engineer - GenAI - Agentic AI - Cloud",
+      "title": "CEO, CTO & Lead AI Engineering Trainer",
+      "badge": "Golden sessions mentor",
+      "image": "/mab.webp",
+      "facts": [
+        "50,000+ trained learners worldwide",
+        "50+ live AI SaaS & BaaS products built",
+        "CTO @ Pakistan Blockchain Institute",
+        "Founder of P2P Clouds & tech lead"
+      ],
+      "socials": [
+        {
+          "type": "portfolio",
+          "label": "Portfolio",
+          "text": "ahmadbasit.com",
+          "href": "https://ahmadbasit.com"
+        },
+        {
+          "type": "linkedin",
+          "label": "LinkedIn",
+          "href": "https://pk.linkedin.com/in/mianahmadbasit"
+        },
+        {
+          "type": "twitter",
+          "label": "Twitter / X",
+          "href": "https://twitter.com/MianAhmadBasit1"
+        },
+        {
+          "type": "instagram",
+          "label": "Instagram",
+          "href": "https://www.instagram.com/mianahmadbasit"
+        },
+        {
+          "type": "github",
+          "label": "GitHub",
+          "href": "https://github.com/MianAhmadBasit"
+        },
+        {
+          "type": "email",
+          "label": "Email",
+          "href": "mailto:info@p2pclouds.net"
+        }
+      ]
+    },
+    "teamTitle": "More from the faculty",
+    "team": [
+      {
+        "name": "Zeeshan Ali",
+        "role": "Lead instructor",
+        "title": "Software Engineer & Technical Project Manager",
+        "image": "/zeeshan.jpg",
+        "linkedin": "https://www.linkedin.com/in/zeeshan-ali-dev/",
+        "website": "https://zeeshanai.com/",
+        "websiteLabel": "zeeshanai.com"
+      },
+      {
+        "name": "Ahmad Hasan",
+        "role": "Instructor",
+        "title": "Software Engineer & AI Systems Developer",
+        "image": "/ahmad.png",
+        "linkedin": "https://www.linkedin.com/in/ahmaddev-ai/",
+        "website": "https://p2pclouds.net/",
+        "websiteLabel": "P2P Clouds"
+      }
+    ]
+  },
+  "career": {
+    "heading": "Outcomes: freelancing, live projects and an internship",
+    "description": "Graduates should be able to run campaigns end to end and work with real clients and companies.",
+    "cards": [
+      {
+        "title": "Freelancing",
+        "label": "Client acquisition & delivery",
+        "value": "Agency-ready",
+        "body": "Practice discovery calls, audits, proposals, pricing, reporting, retention and LinkedIn client hunting."
+      },
+      {
+        "title": "Campaign execution",
+        "label": "Paid + organic implementation",
+        "value": "Live projects",
+        "body": "Plan, launch, optimize and present complete Meta, Google, SEO, YouTube and commerce campaigns."
+      },
+      {
+        "title": "Internship",
+        "label": "Practical exposure",
+        "value": "2 months",
+        "body": "A 2-month internship gives you real-company exposure and gets you ready for certification."
+      }
+    ]
+  },
+  "bonuses": {
+    "heading": "Bonuses and career support",
+    "description": "Templates, checklists, internship, interview preparation and LMS access come with the program.",
+    "items": [
+      {
+        "kicker": "Bonus kit",
+        "heading": "Templates, checklists & project sheets",
+        "body": "A free bonus kit for planning, briefing, launching, optimizing, tracking and reporting campaigns.",
+        "points": [
+          "Media planning templates",
+          "Social media strategy and case study templates",
+          "Creative briefing and client briefing templates",
+          "Digital marketing project sheet template"
+        ]
+      },
+      {
+        "kicker": "Optimization checklists",
+        "heading": "Google Ads & campaign optimization toolkit",
+        "body": "Practical checklists for launch readiness, search campaigns, Performance Max, Shopping, Demand Gen and priorities.",
+        "points": [
+          "Pre-launch setup checklist",
+          "Search campaign optimization",
+          "Performance Max optimization",
+          "Shopping and Demand Gen optimization"
+        ]
+      },
+      {
+        "kicker": "Internship & interview prep",
+        "heading": "Career practice included",
+        "body": "A 2-month internship and an international interview preparation kit.",
+        "points": [
+          "2-month real-world internship",
+          "International interview preparation kit",
+          "Capstone project evaluation",
+          "Career guidance for industry readiness"
+        ]
+      },
+      {
+        "kicker": "LMS & community",
+        "heading": "Mobile LMS and community support",
+        "body": "LMS mobile app access, community support, live updates and P2P Clouds CRM practice access.",
+        "points": [
+          "LMS mobile app system",
+          "1 year access to personal community support and live updates",
+          "1 month P2P Clouds AI CRM practice access",
+          "Notes, books and PPT materials included"
+        ]
+      }
+    ]
+  },
+  "diagnostic": {
+    "heading": "Which track should you focus on first?",
+    "description": "Tell us your main goal and we will point you to the best place to focus.",
+    "questions": [
+      {
+        "question": "What do you want to get out of this program first?",
+        "options": [
+          "I want to start with paid ads and tracking foundations.",
+          "I already run campaigns and need optimization, reporting and scaling.",
+          "I want organic growth through SEO, YouTube and content systems.",
+          "I want freelancing, agency, digital product and AI automation skills."
+        ]
+      }
+    ],
+    "results": {
+      "paid": {
+        "phase": "Focus on Meta Ads AI Mastery (B1)",
+        "description": "Start with ad delivery, tracking, funnels and creative strategy, then move into Google Ads. Level 1 builds your paid acquisition foundation."
+      },
+      "optimize": {
+        "phase": "Focus on Google Ads (B2) and Programmatic (B4)",
+        "description": "Go deep on conversion setup, bidding, Performance Max, reporting, CRO and the data stack to optimize and scale campaigns you already run."
+      },
+      "organic": {
+        "phase": "Focus on SEO (B5) and YouTube (B6)",
+        "description": "Level 2 covers keyword strategy, technical SEO, backlinks, YouTube growth, thumbnails and monetization for long-term organic traffic."
+      },
+      "freelance": {
+        "phase": "Focus on AI Strategy (B3), Email (B7) and Etsy (B8)",
+        "description": "Combine AI automation, email marketing and digital product launches with the freelancing and client-hunting practice built into the program."
+      }
+    },
+    "rules": [
+      {
+        "result": "optimize",
+        "match": "all",
+        "conditions": [{ "question": 0, "options": [1] }]
+      },
+      {
+        "result": "organic",
+        "match": "all",
+        "conditions": [{ "question": 0, "options": [2] }]
+      },
+      {
+        "result": "freelance",
+        "match": "all",
+        "conditions": [{ "question": 0, "options": [3] }]
+      }
+    ],
+    "defaultResult": "paid",
+    "enrollCta": "Enroll in the program",
+    "retakeLabel": "Choose again"
+  },
+  "faq": {
+    "heading": "Frequently asked questions",
+    "description": "Clear answers about the structure, certification, internship and what is included.",
+    "searchPlaceholder": "Search questions (internship, attendance, AI, Etsy...)",
+    "initialCount": 6,
+    "items": [
+      {
+        "question": "What is this program?",
+        "answer": "The Performance Marketing Mastery Program is an 8-month course covering paid advertising, SEO, YouTube, email marketing, digital products and AI automation."
+      },
+      {
+        "question": "How long is the course?",
+        "answer": "It runs for 8 months, split into 2 semesters of 4 months each, with 3 classes every week."
+      },
+      {
+        "question": "What are the two main levels?",
+        "answer": "Level 1 is Paid Marketing. Level 2 is Organic Digital Marketing and Advanced Platforms."
+      },
+      {
+        "question": "Which books are covered?",
+        "answer": "Meta Ads AI Mastery, Google Ads Mastery, Digital Marketing Strategy with AI & ChatGPT, Advanced Programmatic Marketing, Organic Digital Marketing & SEO Mastery, YouTube SEO & AI Automation Mastery, Email Marketing Mastery and Complete Etsy Mastery."
+      },
+      {
+        "question": "Is this exam and certification based?",
+        "answer": "Yes. The program is exam and project based, with quizzes, assignments, live project evaluations, final exams, practical evaluations and certification requirements."
+      },
+      {
+        "question": "Is attendance required?",
+        "answer": "Yes. You need at least 85% attendance to qualify for certification."
+      },
+      {
+        "question": "Does the course include an internship?",
+        "answer": "Yes. It includes a 2-month real-world internship."
+      },
+      {
+        "question": "Does it include AI automation?",
+        "answer": "Yes. AI automation appears across Meta Ads, ChatGPT strategy sessions, Go HighLevel, SEO automation, Zapier, n8n, AI agents and AI-driven email marketing automation."
+      },
+      {
+        "question": "What bonus kit is included?",
+        "answer": "Media planning templates, social media strategy and case study templates, creative and client briefing templates, project sheets, optimization checklists, a priority tracker, notes, books and PPT materials."
+      },
+      {
+        "question": "What are the key student outcomes?",
+        "answer": "You should master Meta Ads, Google Ads, YouTube, SEO, email marketing, Etsy and AI automation, while gaining freelancing, agency, entrepreneurial, campaign implementation, mentorship and career readiness skills."
+      }
+    ]
+  },
+  "finalCta": {
+    "kicker": "Build campaigns that perform",
+    "title": "Become a performance marketer.",
+    "text": "Eight months of live projects, real tools, an internship and certification. Join the next cohort and build skills you can sell.",
+    "primaryCta": "Apply for the next cohort",
+    "secondaryCta": {
+      "label": "Explore the curriculum",
+      "href": "#curriculum"
+    },
+    "path": [
+      "Paid Marketing",
+      "Tracking",
+      "Creative Strategy",
+      "Google Ads",
+      "AI Automation",
+      "Programmatic",
+      "SEO",
+      "YouTube",
+      "Email",
+      "Digital Products",
+      "Internship",
+      "Certification"
+    ]
+  },
+  "phases": [
+    {
+      "id": "level-1",
+      "badge": "Level 1",
+      "domain": "Paid Marketing",
+      "title": "Paid Marketing",
+      "description": "Semester 1 builds paid acquisition skills across Meta Ads, Google Ads, AI strategy, automation, programmatic media, CRO, CRM and reporting.",
+      "weeks": "Semester 1 - 4 months",
+      "checkpoint": "Paid Campaign Launch Checkpoint",
+      "milestone": "Plan, launch, optimize, and present paid campaigns",
+      "skills": [
+        "Media buying",
+        "Tracking",
+        "Creative testing",
+        "AI automation"
+      ],
+      "tools": ["Meta Ads", "Google Ads", "ChatGPT", "DV360", "Power BI"],
+      "modules": [
+        {
+          "id": "B1",
+          "title": "Meta Ads AI Mastery",
+          "subtitle": "Facebook, Instagram, Messenger, WhatsApp and AI automation.",
+          "overview": "A 41-chapter Meta Ads track covering ad delivery, auctions, policies, funnels, Business Manager, Pixel, CAPI, creative strategy, audiences, scaling, lead generation, automation, case studies, troubleshooting and agency growth.",
+          "topicGroups": [
+            {
+              "icon": "target",
+              "title": "Foundations & Account Setup",
+              "items": [
+                "Meta Ads and AI algorithm 2026",
+                "Social media advertising perspective",
+                "Ad delivery science and learning phase",
+                "Ads auction, total value, and quality ranking",
+                "Business Manager, ad accounts, access, billing, and policies"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "Tracking, Funnels & Optimization",
+              "items": [
+                "Funnels and customer journey",
+                "Events Manager and Meta Pixel",
+                "Advanced tracking and attribution",
+                "Custom conversions and offline events",
+                "Conversion API and server-side tracking"
+              ]
+            },
+            {
+              "icon": "sparkles",
+              "title": "Creative, Scaling & Agency Work",
+              "items": [
+                "Campaign objectives and placements",
+                "Creative strategy, hooks, psychology, image and video ads",
+                "Audience targeting, custom audiences, lookalikes, retargeting",
+                "Automated rules, ManyChat, Messenger, WhatsApp, n8n, Zapier",
+                "Freelancing, client hunting, final project, and evaluation"
+              ]
+            }
+          ],
+          "keyOutcome": "Students plan, launch, optimize, and present a complete Meta Ads campaign."
+        },
+        {
+          "id": "B2",
+          "title": "Google Ads Mastery",
+          "subtitle": "Search, display, YouTube, Shopping, PMax, apps and reporting.",
+          "overview": "A 15-module Google Ads track covering lead generation, advanced conversions, analytics, search and display, attribution, call-only, shopping, Performance Max, apps, Demand Gen, YouTube, Editor, reports, scripts, templates and case studies.",
+          "topicGroups": [
+            {
+              "icon": "search",
+              "title": "Lead Generation & Conversion Setup",
+              "items": [
+                "Lead generation campaign requirements",
+                "Initial daily budget calculation",
+                "Events vs conversions",
+                "Primary and secondary conversions",
+                "Enhanced conversions with GTM"
+              ]
+            },
+            {
+              "icon": "chart",
+              "title": "Search, Display, Shopping & PMax",
+              "items": [
+                "Keyword match types and ad group theming",
+                "Negative keywords, RLSA, bidding, experiments, and pacing",
+                "Display audiences and creatives",
+                "WooCommerce and Shopify shopping setup",
+                "Performance Max audience signals and structure"
+              ]
+            },
+            {
+              "icon": "video",
+              "title": "YouTube, Apps, Reporting & Templates",
+              "items": [
+                "App install campaigns and Firebase events",
+                "Demand Gen campaign best practices",
+                "YouTube audiences, Shorts ads, and conversion campaigns",
+                "Google Ads Editor, reports, scripts, and anomaly detector",
+                "Final exam and practical evaluation"
+              ]
+            }
+          ],
+          "keyOutcome": "Students complete Google Ads practical evaluation and final exam work."
+        },
+        {
+          "id": "B3",
+          "title": "Digital Marketing Strategy with AI & ChatGPT",
+          "subtitle": "Golden sessions with Mian Ahmad Basit.",
+          "overview": "Four golden sessions covering AI clone workflows, automation, generative AI in digital marketing, digital marketing agents and Go HighLevel automation mastery.",
+          "topicGroups": [
+            {
+              "icon": "bot",
+              "title": "AI Marketing Systems",
+              "items": [
+                "AI clone and automation",
+                "Generative AI in digital marketing",
+                "Development of AI agents in digital marketing",
+                "Go HighLevel marketing and AI automation mastery"
+              ]
+            }
+          ],
+          "keyOutcome": "Students learn where AI automation fits into performance marketing workflows."
+        },
+        {
+          "id": "B4",
+          "title": "Advanced Complete Programmatic Marketing",
+          "subtitle": "DV360, CRO, CM360, CRM, DMP and Power BI.",
+          "overview": "Advanced programmatic marketing with DV360, conversion rate optimization, Campaign Manager 360, P2P Clouds CRM mastery, data management platforms and AI data engineering for marketers using Power BI.",
+          "topicGroups": [
+            {
+              "icon": "database",
+              "title": "Programmatic & Data Stack",
+              "items": [
+                "DV360",
+                "Conversion Rate Optimization",
+                "Campaign Manager 360",
+                "P2P Clouds CRM mastery",
+                "Data Management Platform",
+                "AI data engineering for marketers using Power BI",
+                "Software app and crypto marketing mastery"
+              ]
+            }
+          ],
+          "keyOutcome": "Students connect programmatic platforms, CRM thinking, CRO and marketing data workflows."
+        }
+      ]
+    },
+    {
+      "id": "level-2",
+      "badge": "Level 2",
+      "domain": "Organic & Platforms",
+      "title": "Organic Digital Marketing & Advanced Platforms",
+      "description": "Semester 2 expands into SEO, YouTube, email marketing, monetization, digital products, Etsy, Gumroad, logistics and live product development.",
+      "weeks": "Semester 2 - 4 months",
+      "checkpoint": "Organic Growth & Commerce Checkpoint",
+      "milestone": "Build organic growth systems and digital product campaigns",
+      "skills": ["SEO", "YouTube", "Email", "Etsy", "Digital products"],
+      "tools": [
+        "GA4",
+        "Search Console",
+        "Ahrefs",
+        "SEMrush",
+        "Canva",
+        "Gumroad"
+      ],
+      "modules": [
+        {
+          "id": "B5",
+          "title": "Organic Digital Marketing & SEO Mastery",
+          "subtitle": "SEO, blogging, content creation and monetization.",
+          "overview": "A 12-module SEO track covering niche research, keyword strategy, site architecture, content, technical SEO, backlinks, local and eCommerce SEO, analytics, AI automation, client acquisition, practical implementation and bonus updates.",
+          "topicGroups": [
+            {
+              "icon": "search",
+              "title": "SEO Strategy & Content",
+              "items": [
+                "SEO fundamentals and advanced niche research",
+                "Keyword research, intent mapping, clustering, and SERP analysis",
+                "Site structure, topical authority, internal linking, and setup",
+                "AI-powered SEO content, copywriting, and SurferSEO with ChatGPT"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "Technical SEO, Authority & Reporting",
+              "items": [
+                "Website design and SEO best practices",
+                "Schema, structured data, indexing, Core Web Vitals, and audits",
+                "Backlinks, outreach, guest posting, link profile analysis",
+                "GA4, dashboards, client reporting, and revenue tracking"
+              ]
+            },
+            {
+              "icon": "briefcase",
+              "title": "Automation, Clients & Projects",
+              "items": [
+                "Zapier and n8n SEO automation",
+                "AI agents for SEO monitoring",
+                "High-ticket SEO client acquisition",
+                "Live SEO audit and optimization project",
+                "Algorithm updates 2026 and international SEO"
+              ]
+            }
+          ],
+          "keyOutcome": "Students build client-ready SEO audit templates, action plans and practical campaign implementations."
+        },
+        {
+          "id": "B6",
+          "title": "YouTube SEO & AI Automation Mastery",
+          "subtitle": "Niche domination, algorithm mastery, mobile production and monetization.",
+          "overview": "A 12-module YouTube growth track covering creator mindset, niche validation, algorithm signals, mobile production, thumbnails, no-SEO growth, metrics, Shorts vs long-form, monetization, growth challenges and faceless content creation.",
+          "topicGroups": [
+            {
+              "icon": "video",
+              "title": "Creator Strategy & Production",
+              "items": [
+                "Why most channels fail and the mindset upgrades required",
+                "Pocket Niche Method and demand validation",
+                "YouTube algorithm signals in 2026",
+                "Mobile production studio and 10-second hook formula"
+              ]
+            },
+            {
+              "icon": "sparkles",
+              "title": "Growth, Thumbnails & Monetization",
+              "items": [
+                "Thumbnail blueprint and fast mobile thumbnail creation",
+                "No-SEO growth system",
+                "CTR, audience retention, watch time, and recommendation signals",
+                "Shorts vs long-form and monetization blueprint"
+              ]
+            },
+            {
+              "icon": "bot",
+              "title": "Faceless Content & Channel Setup",
+              "items": [
+                "Faceless YouTube success in 2026",
+                "Binge-worthy faceless videos",
+                "Faceless Shorts",
+                "A to Z channel setup",
+                "30-minute long faceless video creation workflow"
+              ]
+            }
+          ],
+          "keyOutcome": "Students build a practical YouTube growth and monetization system."
+        },
+        {
+          "id": "B7",
+          "title": "Email Marketing Mastery",
+          "subtitle": "Four golden sessions with Mian Ahmad Basit.",
+          "overview": "Email marketing golden sessions focused on monetization strategies and AI-driven email marketing automation.",
+          "topicGroups": [
+            {
+              "icon": "mail",
+              "title": "Email Monetization & AI",
+              "items": [
+                "Monetization strategy",
+                "AI algorithm mastery",
+                "AI-driven email marketing automation",
+                "Campaign planning and follow-up sequences"
+              ]
+            }
+          ],
+          "keyOutcome": "Students understand how email supports marketing monetization and automated follow-up."
+        },
+        {
+          "id": "B8",
+          "title": "Complete Etsy Mastery",
+          "subtitle": "Digital products, POD, private label, Gumroad, logistics and contests.",
+          "overview": "An 8-module Etsy and digital product track covering seller setup, POD, digital products, promotion, private label, logistics with FedEx, Gumroad integration and live product development contests.",
+          "topicGroups": [
+            {
+              "icon": "store",
+              "title": "Store Setup & Product Creation",
+              "items": [
+                "Etsy seller account setup and store design",
+                "Payoneer setup",
+                "Shop banners, logos, announcements, and policies",
+                "POD niche research and listing creation",
+                "Digital product creation with AI and Canva"
+              ]
+            },
+            {
+              "icon": "briefcase",
+              "title": "Promotion, Logistics & Expansion",
+              "items": [
+                "Sales campaigns, coupons, and ad budgets",
+                "Private label opportunity research and policy compliance",
+                "FedEx logistics session and international shipping",
+                "Gumroad backup store setup and traffic from Etsy",
+                "Live product development contest with real metrics"
+              ]
+            }
+          ],
+          "keyOutcome": "Students create and promote Etsy or digital product offers through practical launch workflows."
+        }
+      ]
+    }
+  ]
+}

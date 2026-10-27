@@ -1,0 +1,368 @@
+MIAN AHMAD BASIT — ENTERPRISE AI ENGINEERING SPECIALIZATION SYLLABUS
+
+=========================================
+PHASE 0 — PROGRAMMING & AI FOUNDATIONS
+=========================================
+
+MODULE p0-mod-1: Python Syntax & Core Fundamentals
+Deep dive into Python language constructs, data structures, and memory mechanics.
+
+Topics:
+- Core Syntax & Control Flow: Python syntax and fundamentals, Variables and data types, Operators (arithmetic, logical, bitwise), Conditional statements (if-elif-else), Loops (for, while, loop control break/continue)
+- Functions & Functional Paradigms: Functions, arguments, *args, **kwargs, Lambda functions & anonymous execution, List, tuple, set and dictionary deep dive, Comprehensions (list, dict, set comprehensions), String manipulation & regex parsing
+- File & Environment Management: File handling & context management, Exception handling (try-except-finally), Modules, packages, & relative imports, Virtual environments (venv, conda, poetry), Package management with pip & dependency locking
+
+MODULE p0-mod-2: Object-Oriented & Advanced Python Paradigms
+Advanced OOP principles, metaprogramming, type hints, and asynchronous Python.
+
+Topics:
+- Object-Oriented Programming (OOP): Classes and objects mechanics, Inheritance (single, multiple, MRO), Encapsulation & private attributes, Polymorphism & duck typing, Abstraction & Abstract Base Classes (ABC)
+- Advanced Python Mechanics: Iterators and custom iterable protocol, Generators & memory-efficient yield loops, Decorators & wrapper functions with state, Context managers (__enter__, __exit__), Type hints & static typing verification, Dataclasses & immutability
+- Async Programming & API Integration: asyncio event loop fundamentals, async/await patterns & non-blocking execution, Concurrency fundamentals (tasks, gather, semaphores), HTTP/REST fundamentals & async requests, JSON serialization & deserialization, Environment variables management (.env), Git/GitHub basics & workflow, Python project structure & package setup
+
+
+=========================================
+MACHINE LEARNING FOUNDATIONS
+=========================================
+
+MODULE ml-mod-1: Mathematics for Machine Learning
+The exact mathematical concepts that power vector spaces, optimization loss landscapes, and probabilistic models.
+
+Topics:
+- Linear Algebra: Scalars, Vectors, Matrices, and Tensors, Matrix operations (addition, transposition), Dot product, Vector Norms (L1, L2), Matrix multiplication mechanics, Eigenvalues and Eigenvectors
+- Probability & Statistics: Probability fundamentals & Axioms, Conditional probability & Joint probability, Bayes theorem & Bayesian inference, Random variables (Discrete & Continuous), Probability distributions (Gaussian, Bernoulli, Poisson), Mean, Variance, Standard deviation, Covariance and Correlation matrices, Descriptive statistics vs Inferential statistics, Sampling techniques & Central Limit Theorem, Hypothesis testing & p-values, Confidence intervals
+- Calculus & Optimization: Derivatives & rate of change, Partial derivatives & Gradient vectors, Gradients & Loss surface geometry, Chain rule for composite functions, Optimization fundamentals & Convexity
+
+MODULE ml-mod-2: Classical Machine Learning Algorithms & Engineering
+Supervised and Unsupervised learning, ensemble methods, feature engineering, and model evaluation.
+
+Topics:
+- Core ML Concepts & Taxonomy: What is Machine Learning?, Supervised Learning paradigm, Unsupervised Learning paradigm, Semi-supervised Learning, Reinforcement Learning overview
+- Supervised Algorithms (Regression & Classification): Linear Regression & Ordinary Least Squares, Multiple Linear Regression, Polynomial Regression, Logistic Regression & Sigmoid Decision Boundaries, K-Nearest Neighbors (KNN), Naive Bayes Classifier, Decision Trees & Information Gain / Gini Impurity, Random Forest & Bagging, Gradient Boosting Machines (GBM), XGBoost, LightGBM, and CatBoost, Support Vector Machines (SVM), Support Vector Regression (SVR)
+- Unsupervised Learning & Dimensionality Reduction: K-Means Clustering & Elbow Method, Hierarchical Clustering & Dendrograms, DBSCAN (Density-Based Spatial Clustering), Principal Component Analysis (PCA), Dimensionality Reduction techniques
+- Feature Engineering & Data Pipeline: Feature Selection methods, Categorical Encoding (One-Hot, Target, Ordinal), Scaling: MinMax Normalization vs Standardization (Z-score), Missing Value Imputation strategies, Outlier Detection (IQR, Z-score, Isolation Forest), Data Leakage prevention, Train/Validation/Test Split strategies, K-Fold & Stratified Cross Validation
+- Optimization, Tuning & Evaluation: Hyperparameter Tuning: Grid Search & Random Search, Confusion Matrix (TP, FP, TN, FN), Accuracy, Precision, Recall, F1 Score, ROC-AUC & Precision-Recall (PR-AUC) Curves, Regression Metrics: MAE, MSE, RMSE, R², Bias-Variance Tradeoff, Underfitting vs Overfitting diagnostics, Regularization: L1 (Lasso) vs L2 (Ridge), Ensemble Learning techniques, Scikit-Learn Pipelines & Model Serialization (joblib/pickle), ML deployment fundamentals
+
+
+=========================================
+DEEP LEARNING FOUNDATIONS
+=========================================
+
+MODULE dl-mod-1: Neural Networks & Optimization Mechanics
+Perceptrons, multi-layer networks, backpropagation calculus, and optimization algorithms.
+
+Topics:
+- Neural Network Architecture Basics: Artificial Neurons & Biological Inspiration, Perceptron model & Linearity limits, Forward Propagation through Dense Layers, Backpropagation & Computation Graphs, Loss Functions (MSE, Cross-Entropy, Binary Cross-Entropy)
+- Optimization Algorithms & Initializations: Gradient Descent & Stochastic Gradient Descent (SGD), Mini-batch Gradient Descent, Momentum & Nesterov Accelerated Gradient, Adam & AdamW Optimizers, Learning Rate Scheduling (Cosine Annealing, Warmup), Weight Initialization: Xavier / Glorot Initialization, Weight Initialization: He / Kaiming Initialization
+- Activations, Normalization & Regularization: Activation Functions: Sigmoid, Tanh, ReLU, Leaky ReLU, GELU, Softmax, Batch Normalization (BatchNorm), Layer Normalization (LayerNorm), Dropout & DropPath Regularization, L1/L2 Regularization in Neural Networks, Vanishing Gradients & Exploding Gradients problems
+
+MODULE dl-mod-2: PyTorch, CNNs & Sequence Models
+Hands-on PyTorch engineering, Convolutional Networks for Vision, and Recurrent Architectures for Sequences.
+
+Topics:
+- PyTorch Framework Fundamentals: PyTorch Tensors & Memory Layout, Autograd automatic differentiation engine, Building custom models with nn.Module, Dataset & DataLoader custom implementations, Training loops & Validation loops, GPU Acceleration (CUDA/MPS execution), Mixed Precision Training (torch.cuda.amp), Model Checkpointing & State Dicts, Transfer Learning workflows
+- Convolutional Neural Networks (CNNs): Convolution operation, Kernels, & Filters, Feature Maps, Stride, & Padding math, Pooling operations: Max Pooling & Average Pooling, Classic CNN Architectures (ResNet, EfficientNet), Transfer Learning for Computer Vision, Image Classification pipelines
+- Sequence Models & Recurrent Architectures: Recurrent Neural Networks (RNN), Vanishing Gradient Problem in RNNs, Long Short-Term Memory (LSTM) Networks, Gated Recurrent Units (GRU), Bidirectional RNNs, Sequence-to-Sequence (Seq2Seq) Architectures, Encoder-Decoder Paradigms, Teacher Forcing technique, Introduction to Attention Mechanism
+
+
+=========================================
+NLP FOUNDATIONS
+=========================================
+
+MODULE nlp-mod-1: NLP Core Concepts & Vector Spaces
+Text representation techniques from lexical features to dense continuous vector spaces.
+
+Topics:
+- Text Preprocessing Pipelines: Natural Language Processing fundamentals, Text Normalization (lowercasing, unicode handling), Tokenization methods, Stopwords removal, Stemming (Porter, Snowball) vs Lemmatization (WordNet), N-grams language representations, Bag of Words (BoW) model, TF-IDF (Term Frequency - Inverse Document Frequency)
+- Word Embeddings & Dense Representations: Word Embeddings intuition, Word2Vec Architecture: Continuous Bag of Words (CBOW), Word2Vec Architecture: Skip-Gram with Negative Sampling, GloVe (Global Vectors for Word Representation), Contextual Embeddings evolution
+- Downstream NLP Tasks: Sequence classification paradigms, Text classification & Topic Modeling, Named Entity Recognition (NER), Sentiment Analysis & Intent Recognition, Language modeling fundamentals, Seq2Seq for Translation & Summarization, Attention Mechanism in NLP, Introduction to the Transformer Architecture
+
+
+=========================================
+01 — AI FOUNDATIONS & TRANSFORMERS 101
+=========================================
+
+MODULE 01-mod-1: Transformers 101 & Attention Mechanism
+Mathematical intuition and PyTorch implementation of the Transformer block.
+
+Topics:
+- Embeddings: Discrete to Continuous Space: High-dimensional semantic spaces, Embedding lookup tables & projection matrices, Cosine similarity & Dot product spaces
+- The Attention Mechanism Deep Dive: Scaled Dot-Product Attention (Q, K, V math), Self-Attention computation step-by-step, Multihead Attention (MHA) & Parallel subspace projection, Masked Multihead Attention (Autoregressive causal mask), Positional Encoding (Sinusoidal vs Learned), Encoder–Decoder Transformers (Original Vaswani et al.), Encoder-Only Transformers (BERT, RoBERTa), Decoder-Only Transformers (GPT series, LLaMA), Cross-Attention in Encoder-Decoder models
+
+MODULE 01-mod-2: Tokenization Deep Dive
+Subword algorithms, byte-level processing, vocabulary construction, and edge-case handling.
+
+Topics:
+- Taxonomy of Tokenization: Word level vs Subword level vs Character level vs Byte level, Byte Pair Encoding (BPE) algorithm step-by-step, WordPiece tokenization (BERT style), Unigram & SentencePiece tokenization, Byte-level BPE (tiktoken, LLaMA tokenizer), Special tokens (<unk>, <s>, </s>, <pad>, <mask|, system tokens)
+
+
+=========================================
+02 — PROMPTS TO PROGRAMS & PROGRAMMATIC LLMS
+=========================================
+
+MODULE 02-mod-1: Advanced Prompt Engineering Strategies
+Systematic prompt design, chain-of-thought, meta-prompting, and output enforcement.
+
+Topics:
+- Prompt Architecture & Design Patterns: Anatomy of a Production Prompt, Zero-Shot, One-Shot, & Few-Shot Prompting strategies, Chain-of-Thought (CoT) & Step-Back Prompting, System Prompt Design & Role Assignment, Output Formatting & Structured Generation, Prompt Sensitivity & Robustness Testing, Prompt Chaining & Decomposition Strategies, Meta-Prompting & Self-Refinement Loops
+
+MODULE 02-mod-2: Instructor, Pydantic & Outlines for Typed Outputs
+Guarantee 100% schema-compliant responses using typed validation contracts and token masking.
+
+Topics:
+- Instructor — Structured Outputs with Pydantic: Why typed outputs matter in production, One-line client patching with Instructor, Pydantic models as execution contracts, Auto-retry loops with validation error context, Nested schemas, streaming validation, & async support, Mode system (TOOLS vs JSON_SCHEMA vs MD_JSON)
+- Outlines — Guided Generation & Finite State Automata: FSA-based token masking at logits level, Pydantic + JSON Schema enforcement, Regex generation for strict formats, Context-free grammars for SQL, Code, & Custom DSLs
+
+MODULE 02-mod-3: DSPy — Programmatic LLM Pipeline Optimization
+Replacing manual prompt engineering with compiled, self-optimizing DSPy programs.
+
+Topics:
+- Core DSPy Abstractions: From Prompt Engineering to Programs, Signatures — Defining inputs and outputs declaratively, Modules — Predict, ChainOfThought, ReAct, ProgramOfThought, LM Configuration & Telemetry
+- DSPy Optimizers (Teleprompters): BootstrapFewShot — Automatic few-shot example selection, BootstrapFewShotWithRandomSearch, MIPROv2 — Multi-prompt instruction proposal optimizer, SIMBA & GEPA optimizers, BetterTogether & BootstrapFinetune for model distillation
+
+
+=========================================
+03 — KV CACHE & ADVANCED ATTENTIONS
+=========================================
+
+MODULE 03-mod-1: Finetuning Transformer Architectures
+Hands-on training of DistillBERT, DistillGPT, and T5 on custom task datasets.
+
+Topics:
+- Finetuning Core Architectures: Coding Attention Mechanisms in PyTorch, Finetuning DistillBERT for Classification with Custom Data, Finetuning DistillGPT for Generation with Custom Data, Finetuning T5 for Seq2Seq tasks with Custom Data
+
+MODULE 03-mod-2: KV Cache & Modern Attention Variants
+Optimizing inference speed and memory throughput using FlashAttention, GQA, MLA, and vLLM PagedAttention.
+
+Topics:
+- Memory Math & KV Cache: The Naive Decoding Problem (O(N^2) redundant computation), KV Cache mechanics & memory footprint calculation, FlashAttention 1, 2 & 3 — IO-awareness & GPU SRAM tiling, PyTorch SDPA — The Unified Scaled Dot-Product Attention API
+- Architectural Attention Variants: Multi-Head Attention (MHA) memory bottleneck, Multi-Query Attention (MQA), Grouped-Query Attention (GQA) — LLaMA-3 standard, Multi-Head Latent Attention (MLA) — DeepSeek-V2/V3 standard, PagedAttention & vLLM virtual memory management, RoPE Positional Encoding (Rotary Position Embeddings)
+- Scaling Laws & Compute Budgets: Scaling Laws for Neural Language Models (Kaplan et al.), Training Compute-Optimal LLMs (Chinchilla Scaling Laws), Tokens-to-parameters ratio & dataset scaling math
+
+
+=========================================
+04 — FINETUNING LANGUAGE MODELS & PEFT
+=========================================
+
+MODULE 04-mod-1: Pre-training vs Post-training Lifecycle & Data Prep
+Understanding pre-training objectives, continued pre-training (CPT), and instruction dataset engineering.
+
+Topics:
+- Finetuning Lifecycle Foundations: Pre-training vs Post-training — the two-phase view, What pre-training produces (base model capabilities & limitations), Why base models are not useful out of the box, Training objectives recap: CLM, MLM, Prefix-LM
+- Pre-Training Deep Dive & Continued Pre-Training: Data curation and filtering at scale (CommonCrawl, RefinedWeb), Continued Pre-Training (CPT) for domain adaptation, The compute budget problem & scaling law tradeoffs, When CPT is needed vs jumping straight to SFT, Multi-Token Prediction (MTP) architectures
+- Data Preparation for Fine-Tuning: Dataset formats (instruction pairs, chat format), Chat templates: ChatML, LLaMA-3, Mistral formatting, Loss masking — why it matters, what breaks without it, Deduplication and filtering pipelines, Synthetic data generation (Self-Instruct, Alpaca-style)
+
+MODULE 04-mod-2: PEFT Techniques: LoRA, QLoRA, DoRA & AdaLoRA
+Parameter-efficient fine-tuning math, 4-bit NF4 quantization, and adapter architectures.
+
+Topics:
+- Parameter-Efficient Fine-Tuning (PEFT): The intrinsic dimensionality insight of neural weights, LoRA — Low-Rank Adaptation math (W = W0 + B*A, rank r, alpha scaling), QLoRA — 4-bit NormalFloat (NF4), Double Quantization, Paged Optimizers, DoRA — Weight-Decomposed Low-Rank Adaptation (magnitude + direction), AdaLoRA — Adaptive rank allocation across layers, LoRA+ — Separate learning rates for A and B projection matrices
+- Supervised Fine-Tuning (SFT): SFT as Stage 1 of every post-training pipeline, Instruction tuning (FLAN, Alpaca, OpenHermes datasets), Chat / conversational fine-tuning mechanics, Chain-of-Thought fine-tuning for reasoning, Domain-specific fine-tuning best practices
+
+MODULE 04-mod-3: Preference Alignment & Advanced Post-Training
+Aligning LLMs with human preferences using DPO, GRPO, ORPO, and RLHF.
+
+Topics:
+- Preference Alignment Paradigms: Why SFT alone is not enough (distribution shift & verbosity bias), RLHF with PPO — reward model, critic network, KL penalty calculation, DPO — Direct Preference Optimization (no reward model required), GRPO — Group Relative Policy Optimization (DeepSeek-Math/R1 approach), ORPO — Odds Ratio Preference Optimization (single-stage, zero dependencies)
+- Quantization & Deployment Prep: Quantization standards: GPTQ, AWQ, BNB NF4, FP8, Merging LoRA adapters into base weights before serving, Inference frameworks: vLLM, SGLang, Serving multiple LoRA adapters dynamically from one base model, GGUF, GGUML format for CPU & local edge execution, llama.cpp engine optimization, Speculative Decoding & Inference acceleration
+- Tooling & Frameworks: HuggingFace TRL — SFT, DPO, GRPO, ORPO trainers, Unsloth — 2x-5x faster training with custom GPU kernels, Axolotl — full YAML configurability for cluster training, LLaMA-Factory — no-code web UI for SFT and alignment, Together AI / AWS SageMaker managed fine-tuning
+- Synthetic Dataset Generation: Why Data Is the Leverage Point in 2026, Taxonomy of Synthetic Data (Instruction vs Preference vs Code), Instruction Dataset Generation (Self-Instruct, Alpaca: Scaling Self-Instruct), Preference Dataset Generation (LLM-as-Judge Scoring), Tools: distilabel, DataDreamer, Argilla, Risks: Model Collapse and Data Poisoning prevention, End-to-End Pipeline: Building a Domain SFT Dataset
+
+
+=========================================
+05 — MIXTURE OF EXPERTS & REASONING MODELS
+=========================================
+
+MODULE 05-mod-1: Mixture of Experts (MoE) Architecture
+Sparse gating, router load balancing, expert specialization, and production serving.
+
+Topics:
+- MoE Core Architecture: The Dense Model Scaling Problem (compute wall), The MoE Idea: Sparse activation of sub-networks, Architecture Deep Dive: Gating networks & Top-K router math, Load Balancing loss functions & Auxiliary loss, Training MoE Models at scale, Inference with MoE (memory vs compute tradeoffs), MoE Variants (Mixtral 8x7B, DeepSeek-V3 256 experts), Production MoE Models, MoE vs Dense: When to Use Each
+
+MODULE 05-mod-2: Reasoning Models & DeepSeek-R1 Paradigm
+Reinforcement learning for long-form reasoning, rule-based rewards, and model distillation.
+
+Topics:
+- Reasoning Models Architecture: What Is a Reasoning Model? (System 1 vs System 2 thinking), Chain-of-Thought: The Foundation for explicit reasoning traces, The Training Recipe: Pure RL vs SFT+RL, DeepSeek-R1-Zero: Skipping SFT Entirely with Rule-Based RL, Distillation: Reasoning Without RL (transferring CoT traces to SLMs)
+
+
+=========================================
+06 — KNOWLEDGE DISTILLATION & SMALL LANGUAGE MODELS
+=========================================
+
+MODULE 06-mod-1: Small Language Models (SLMs) & Edge AI
+Building ultra-compact 1B-3B models with performance rivaling large LLMs.
+
+Topics:
+- SLM Design Philosophy: What Is a Small Language Model? (Phi-3, Gemma-2B, LLaMA-3.2-1B), Why SLMs Matter: Latency, privacy, edge deployment, cost, The SLM Design Philosophy — Data density over model size, Key Techniques for Building SLMs (high-quality data filtering, deep architectures), Liquid Foundation Models & Dynamical Systems, Training SLMs from Scratch vs Fine-Tuning, Fine-Tuning SLMs for specialized downstream tasks, Reasoning in SLMs with distilled traces, SLM vs LLM: Choosing the Right Scale for your problem
+
+MODULE 06-mod-2: Knowledge Distillation Pipelines
+Compressing teacher model knowledge into student networks using temperature scaling and KL loss.
+
+Topics:
+- Distillation Mathematics & Engineering: The Student-Teacher Paradigm explained, The Core Problem: What Is Knowledge?, Hard Labels vs Soft Labels probability distributions, Temperature Scaling in Softmax output, The KL Divergence Loss formulation, Attention Transfer & Hidden State Matching, Building a Distillation Pipeline:, — Step 1: Teacher Data & Logit Generation, — Step 2: Student Architecture Design, — Step 3: Training the Student Network
+
+
+=========================================
+07 — MULTIMODAL VISION SYSTEMS & IMAGE UNDERSTANDING
+=========================================
+
+MODULE 07-mod-1: Vision Foundations & Vision Transformers (ViT)
+Patch embeddings, 2D positional encodings, self-attention on visual tokens, and pre-trained encoders.
+
+Topics:
+- Vision Transformer (ViT) Architecture: From CNN to Vision Transformer — The Conceptual Bridge, ViT Architecture Deep Dive, Image as a Sequence of Patches (16x16 patch projection), Patch Embedding linear projection layer, The CLS Token for global image classification, Positional Encoding for 2D Spatial Inputs, Transformer Encoder execution on Visual Tokens, Attention Maps — What ViT Sees, CNN vs ViT — Inductive Bias and the Core Tradeoff
+- Pre-Trained Vision Encoders: CLIP — Contrastive Language-Image Pre-training (OpenAI), SigLIP — Sigmoid Loss Variant for pair matching, DINO / DINOv2 — Self-Supervised Vision representation
+
+MODULE 07-mod-2: Visual Language Models (VLMs)
+Connecting visual encoders with LLM backbones via linear projectors and cross-attention aligners.
+
+Topics:
+- VLM Architecture & Visual Grounding: What Is a Visual Language Model? (LLaVA, Qwen-2-VL, Gemini Vision), The VLM Architecture Breakdown:, — The Visual Encoder (ViT/SigLIP), — The Aligner / Projector (MLP vs Cross-Attention Perceiver), — The Language Model Backbone (LLaMA/Qwen), How Vision and Language Are Connected in joint feature space
+
+
+=========================================
+08 — SPEECH AI & CONVERSATIONAL AUDIO SYSTEMS
+=========================================
+
+MODULE 08-mod-1: Speech AI & Fine-Tuning Whisper
+Acoustic feature extraction, log-mel spectrograms, Whisper architecture, and fine-tuning on domain audio.
+
+Topics:
+- Speech AI Foundations & Whisper Architecture: Introduction to Speech AI & Audio Signal Processing, Speech-to-Text Foundations (Log-Mel Spectrograms), Speech-to-Text with Whisper API, Whisper Architecture Deep Dive (Encoder-Decoder Transformer for Audio), Building STT Pipelines with Streaming Chunking, Dataset Preparation for Fine-Tuning Audio Models, Fine-Tuning Whisper on Custom Domain Audio & Accents
+
+
+=========================================
+09 — REPRESENTATION LEARNING & EMBEDDING SYSTEMS
+=========================================
+
+MODULE 09-mod-1: Advanced Embedding Taxonomy & MRL
+Dense vs Sparse signals, float32 to int8/binary quantization, ColBERT multi-vector, and MRL dynamic dimensioning.
+
+Topics:
+- Embedding Taxonomy Deep Dive: Dense Embeddings — The Baseline (bge, e5, openai-3-large), Sparse Embeddings — Lexical Signals Preserved (SPLADE, BM25), Quantized Embeddings — Float32 → Int8 / Uint8 compression, Binary Embeddings — Maximum 32x Memory Compression with Hamming Distance, Multi-Vector Embeddings — One Document, Many Vectors (ColBERT/ColPali), Matryoshka Embeddings (MRL) — Flexible Dimensions at Query Time (e.g. 1536 -> 256), How MRL training works with nested dimension loss
+- Embedding Fine-Tuning & Evaluation: Embedding Fine-Tuning with Multiple Negatives Ranking Loss (MNRL), MTEB (Massive Text Embedding Benchmark) Leaderboard analysis, State of the Art Embedding Models evaluation
+
+
+=========================================
+10 — PRODUCTION RAG SYSTEMS
+=========================================
+
+MODULE 10-mod-1: LangChain & LlamaIndex Framework Ecosystems
+Production LCEL pipelines, document loaders, vector store integrations, metadata filtering, and query synthesis.
+
+Topics:
+- LangChain Ecosystem 2026: Architecture & Ecosystem 2026, LLM Integrations & Model Abstraction, Prompt Engineering abstractions, LCEL (LangChain Expression Language) Deep Dive, Structured Output & Output Parsers, Tool Calling & Function Calling integration, Memory & Conversation History, Document Loaders & Text Splitters, Embeddings & Vector Stores (PGVector, Pinecone, Qdrant), Retrieval & Advanced RAG pipelines, Text-to-SQL & Structured Data querying, Callbacks, Tracing & LangSmith telemetry, Multimodal — Images, Audio, Documents, Deep Agents integrations
+- LlamaIndex Ecosystem 2026: Documents, Nodes & Chunking Strategies, Data Loaders & Connectors (PDFs, APIs, Web, Filesystems), Embeddings Integration & Configuration, Vector Store Integrations (Chroma, FAISS, Pinecone, Qdrant, etc.), Index Types (Vector Index, Summary Index, Keyword Index), Retrievers & Retrieval Strategies, Query Engines & RAG Pipelines, Metadata Filtering & Hybrid Search, Reranking & Response Synthesis
+
+MODULE 10-mod-2: Advanced RAG Architectures & Vector Quantization
+Hybrid search, BM25+SPLADE+ColBERT, Query transformations, Self-RAG, Corrective RAG, Adaptive RAG, and Vector Quantization.
+
+Topics:
+- Foundations of RAG: Vanilla RAG pipeline & limits, Embedding models choice, Chunking Strategies (Semantic, Sentence, Fixed, Recursive), BM25, SPLADE & Multi-Vector ColBERT retrieval
+- Advanced Agentic & Self-Reflective RAG Systems: Hybrid RAG (Dense + Sparse fusion with Reciprocal Rank Fusion), Meta Hybrid RAG, Query Transformations (Query Rewriting, Sub-query Decomposition, Hypothetical Document Embeddings HyDE), RAG Evaluations (Context Precision, Recall, Faithfulness, Answer Relevance), Rerankers (Cohere Rerank, BGE-Reranker-v2, Cross-Encoders), Self RAG — Self-Reflective retrieval with critique tokens, Corrective RAG (CRAG) — Fallback web search verification, Adaptive RAG — Routing queries based on complexity, Contextual Retrieval (Anthropic Contextual Chunking), Agentic RAG — Dynamic tool-driven retrieval
+- Vector Quantization & Scaling: Scalar Quantization (SQ8), Binary Quantization (BQ), Product Quantization (PQ)
+
+MODULE 10-mod-3: Multimodal RAG, Graph RAG, Caching & RAG Security
+ColPali visual page retrieval, Neo4j GraphRAG, Semantic Caching, and Prompt Injection Defense.
+
+Topics:
+- Multimodal RAG & Document Parsers: ColPali Paradigm — Retrieving document images directly via VLM, Single-Stage & Dual-Stage Data Parsing, Layout Detection & OCR Paradigm, Structured Layout Chunking, VL Embeddings & VL Rerankers, Multimodal LLMs for complex document understanding, AWS Textract, Azure AI Document Intelligence, Google Cloud Document AI, LlamaParse, Docling, & LiteParse engines
+- Graph RAG & Vectorless RAG: Building Graph RAG with graph databases like Neo4j, Knowledge Graph construction (Entity-Relation extraction), Vectorless RAG with PageIndex
+- Caching & Securing RAG Systems: Caching & Semantic Caching with Redis/GPTCache, PII Masking & Anonymization pipelines, Input and Output Guardrails in RAG, Prompt Injection Defense at the retrieval interface
+
+
+=========================================
+11 — AGENTIC SYSTEMS: CORE ARCHITECTURES & FOUNDATIONS
+=========================================
+
+MODULE 11-mod-1: Pydantic Validation & LangGraph Stateful Agents
+State management, dynamic routing, ReAct loops, Human-in-the-loop checkpointing, and LangGraph Platform.
+
+Topics:
+- Pydantic Data Validation & Schemas: Installation, Models, Fields, Validators, JSON parsing, type coercion, Dataclasses, nested models, Validation decorators, custom validators, settings management
+- LangGraph Framework Deep Dive: Foundations & Setup, Core Graph Concepts (StateGraph, END, START), State Management & Reducers, Nodes, Edges, & Conditional Routing, Tool-Calling & ReAct Loops, Human-in-the-Loop (Interrupts, Approval, Edit State), Memory & Persistence (Checkpointers, Postgres, MemorySaver), Multi-Agent Systems (Subgraphs, Supervisors, Swarms), Streaming & Observability, LangGraph Platform deployment
+
+MODULE 11-mod-2: PydanticAI, Evals & Logfire Observability
+Type-safe agent contracts, dependency injection, ModelRetry, Pydantic Evals, and Logfire tracing.
+
+Topics:
+- PydanticAI Agent Architecture: Why PydanticAI — Type Safety Gaps in Agentic Frameworks, PydanticAI Architecture — Agents, Models, and the Runnable Contract, Model Configuration — Providers, Settings, and Fallback Models, Result Types — Primitives, Pydantic Models, and Structured Outputs, Union Result Types and Discriminated Unions, Field Validators and Model Validators for Post-LLM Validation, System Prompts — Static, Dynamic, and Instruction Patterns, Dependency Injection — deps_type, RunContext, and Type-Safe Context, Function Tools with Context — @agent.tool and RunContext, Plain Tools — @agent.tool_plain and Stateless Utilities, Tool Error Handling — ModelRetry, Retries, and Validation Errors, Structured Streaming — stream_text, stream, and astream_events, Multi-Turn Conversations — Message History and Context Window Management, Multi-Agent Systems — Pipelines, Delegation, and Handoffs, Testing — TestModel, FunctionModel, and Agent Unit Testing
+- PydanticAI Evals & Logfire Integration: Pydantic Evals — Datasets, Cases, and the Experiment Model, Pydantic Evals — Built-in Evaluators and Custom Evaluators, Pydantic Evals — LLM-as-a-Judge Evaluation, Pydantic Evals — Online Evaluation and Logfire Integration, Observability with Logfire — Tracing, Metrics, and Cost Monitoring, Production Deployment — FastAPI Integration, Sessions, and Containerization
+- Protocols Standard: Model Context Protocol (MCP) servers, FastMCP with SSE transport, Agent-to-Agent (A2A) protocol
+
+
+=========================================
+12 — AGENTS: ORCHESTRATION, PROTOCOLS & PRODUCTION
+=========================================
+
+MODULE 12-mod-1: MCP (Model Context Protocol) Deep Dive
+Architecture, Host-Client-Server primitives, FastMCP, stdio & SSE transport layers, security boundaries, and multi-server orchestration.
+
+Topics:
+- MCP Protocol Foundations: Why MCP Exists — The Tool Fragmentation Problem, MCP Architecture — Hosts, Clients, and Servers, MCP Primitives — Tools, Resources, and Prompts, MCP Transport Layer — stdio and SSE (Server-Sent Events), Building an MCP Server from Scratch with FastMCP, Building an MCP Client and Connecting to Remote Servers, MCP Security — Authentication, Authorization, and Trust Boundaries, MCP in Production — Multi-Server Orchestration with LangGraph and Claude
+
+MODULE 12-mod-2: A2A (Agent-to-Agent Protocol) & Function Calling
+Inter-agent communication, Agent Cards discovery, task lifecycle states, parallel tool calls, and custom tool execution loops.
+
+Topics:
+- A2A Protocol & Interoperability: Why A2A Exists — The Multi-Agent Interoperability Problem, A2A Architecture — Agents, Agent Cards, and the Task Lifecycle, Agent Cards — Capability Discovery and the Well-Known Endpoint (/.well-known/agent.json), A2A Task Model — Submitted, Working, Completed, Failed, and Streaming States, A2A Transport — HTTP, SSE, and JSON-RPC Message Structure, Building an A2A-Compliant Agent Server, Building an A2A Client — Discovering and Delegating to Remote Agents, A2A vs MCP — When to Use Which and How They Complement Each Other
+- Function Calling Mechanics: Why Function Calling Exists — The LLM-to-Tool Communication Problem, Function Schema Design — JSON Schema, Descriptions, and Parameter Typing, The Function Calling Request-Response Lifecycle, Parallel Function Calling — Multiple Tool Calls in a Single Response, Forced and Constrained Tool Choice — required, none, and Specific Tool Selection, Structured Output vs Function Calling — Differences and When to Use Each, Building a Tool Executor Loop from Scratch
+- Agent Observability Tools: LangSmith tracing & dataset annotation, Logfire span-level telemetry, Langfuse for token, cost, and latency monitoring
+
+
+=========================================
+13 — CONTEXT ENGINEERING & HARNESS ENGINEERING
+=========================================
+
+MODULE 13-mod-1: Context Engineering & Compression
+Maximizing context window efficiency, memory architectures (episodic, semantic, procedural), and context pruning.
+
+Topics:
+- Context Construction & Memory Architecture: Anatomy of a Context Window (System, History, Retrieval, Tools, Output), Retrieval-Augmented Generation as Context Construction, Chunking Strategies and Their Impact on Context Quality, Memory Architectures (short-term, episodic, semantic, procedural), Tool Results and Structured Data as Context, Context Compression and Pruning (LLMLingua, RECOMP), Multi-Turn Conversation State and Context Accumulation
+
+MODULE 13-mod-2: Harness Engineering & Sandbox Execution
+Building evaluation harnesses, Inspect AI task scorers, E2B/Docker code execution sandboxes, and ReAct loop safeguards.
+
+Topics:
+- Evaluation Harnesses & Benchmarking: What is Harness Engineering?, Evaluation Harness Fundamentals (what evals are, why ad-hoc testing fails), LLM Benchmarking with lm-evaluation-harness (MMLU, GSM8K, TruthfulQA), Agent-Native Eval with Inspect AI (Task, Solver, Scorer abstractions), LLM-as-a-Judge Pipelines (model-graded scoring, calibration, bias mitigation)
+- Execution Sandboxes & ReAct Safeguards: Tool Execution Sandboxes (E2B, Modal, Docker — secure code execution), Agent State Management & Checkpointing (LangGraph persistence, interrupts), ReAct Loop Harness Patterns (iteration guards, fallback handlers, token budgets), Multi-Agent Execution Harnesses (supervisor-worker contracts)
+
+
+=========================================
+14 — LLMOPS & OBSERVABILITY
+=========================================
+
+MODULE 14-mod-1: Tracing, Evals, Cost & Caching
+Production observability, cost optimization, token budget enforcement, and semantic caching.
+
+Topics:
+- Tracing & Evaluation Frameworks: LangSmith tracing & span telemetry, Langfuse for token & latency monitoring, Logfire span-level traces, RAGAS & Inspect AI evals for RAG & Agent validation
+- Cost Control & Caching Strategies: Prompt caching mechanics (Anthropic / OpenAI prompt prefix caching), Semantic caching with Redis / GPTCache, Token accounting, rate limiting, & financial budget enforcement
+
+
+=========================================
+15 — PRODUCTION INFRASTRUCTURE & CLOUD DEPLOYMENT
+=========================================
+
+MODULE 15-mod-1: Inference Serving & Cloud Orchestration
+Deploying high-throughput model endpoints on AWS EKS, GCP Cloud Run, and Kubernetes clusters.
+
+Topics:
+- Inference Engines & Serving Architecture: vLLM, SGLang, & llama.cpp serving engines, Multi-adapter serving (dynamic LoRA loading at runtime), Speculative decoding acceleration, Quantized inference execution (GGUF, AWQ, GPTQ)
+- Cloud & Kubernetes Orchestration: AWS EKS, ECR, Batch, ECS Fargate infrastructure, Kubernetes + Helm charts deployment recipes, GitHub Actions CI/CD pipelines for AI applications, Docker & multi-stage container builds for lightweight images
+
+
+=========================================
+16 — AI SECURITY, GUARDRAILS & RBAC
+=========================================
+
+MODULE 16-mod-1: Guardrails, LLM Gateways & RBAC Security
+Securing AI applications against prompt injection, data poisoning, PII leaks, and unauthorized document access.
+
+Topics:
+- Guardrails & Defense Mechanisms: Prompt Injection Defense (Direct & Indirect attacks), Jailbreak Prevention & PII Filtering, Toxicity Filtering & Output Validation, NVIDIA NeMo Guardrails (Colang-based programmable rails), LlamaFirewall — Meta's open-source firewall, LLM Guard — Input/output scanner library, AWS Bedrock Guardrails, Microsoft Presidio — PII detection & redaction
+- LLM Gateways & Routing: Load Balancing & Automatic Retries, Metadata, Observability & Caching at Gateway layer, LiteLLM Proxy & AWS Bedrock routing
+- Evaluation & RBAC in AI Systems: Evaluation for RAG Systems & Agents under security stress, Identity & Authentication Fundamentals, SAML Assertion Anatomy, JWT as the RBAC Carrier, Retrieval-Layer RBAC (Document-level tenant filtering), Prompt-Layer RBAC (Dynamic System Prompts based on user role), Multi-Tenancy & Data Isolation guarantees
+
+

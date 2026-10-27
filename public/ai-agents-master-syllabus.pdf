@@ -1,0 +1,312 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2591 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+14 TL
+/F1 16 Tf
+(PRODUCTION LLM & AGENTIC AI ENGINEERING MASTER PROGRAM) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Lead Instructor & CTO: Mian Ahmad Basit) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Master 120+ in-depth topics across Custom LLM Fine-Tuning, Agentic Swarms, Computer) Tj
+T*
+/F1 10 Tf
+(Vision, AI Security, AIOps, LLMOps, RAG, agent protocols, and Kubernetes cloud) Tj
+T*
+/F1 10 Tf
+(deployment.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Program Length: 7-8 months | Modules: 24 | Access: 2 Years LMS Access) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 16 Tf
+(CURRICULUM DOMAINS) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 0 - Programming & AI Foundations: Python fundamentals, OOP, Async Concurrency,) Tj
+T*
+/F1 10 Tf
+(and project engineering prerequisites.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(ML Phase - Machine Learning Foundations: Linear Algebra, Calculus, Statistics,) Tj
+T*
+/F1 10 Tf
+(Supervised and Unsupervised ML.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(DL Phase - Deep Learning Foundations: Neural networks, backpropagation, PyTorch) Tj
+T*
+/F1 10 Tf
+(mechanics, CNNs, and Sequence Models.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(NLP Phase - NLP Foundations: Text preprocessing, Word2Vec, GloVe, embeddings, and NLP) Tj
+T*
+/F1 10 Tf
+(downstream tasks.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 1 - AI Foundations & Transformers 101: Transformer architecture, attention) Tj
+T*
+/F1 10 Tf
+(calculus, tokenization, positional encodings.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 2 - Prompts to Programs & Programmatic LLMs: Prompt engineering, Pydantic) Tj
+T*
+/F1 10 Tf
+(schemas, Outlines grammars, DSPy optimization.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 3 - KV Cache & Advanced Attentions: FlashAttention, MQA, GQA, MLA,) Tj
+T*
+/F1 10 Tf
+(PagedAttention, and scaling laws.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 4 - Finetuning Language Models & PEFT: SFT, LoRA, QLoRA, DoRA, DPO, GRPO, ORPO,) Tj
+T*
+/F1 10 Tf
+(quantization, synthetic datasets.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 5 - Mixture of Experts & Reasoning Models: MoE routing, DeepSeek-R1-Zero, Chain-) Tj
+T*
+/F1 10 Tf
+(of-Thought reinforcement learning.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 6 - Knowledge Distillation & Small Language Models: SLM design, liquid models,) Tj
+T*
+/F1 10 Tf
+(KL divergence, student-teacher pipelines.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 7 - Multimodal Vision Systems: ViT, CLIP, SigLIP, DINOv2, LLaVA, Qwen-2-VL.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 8 - Speech AI: Whisper, STT foundations, acoustic datasets, and custom fine-) Tj
+T*
+/F1 10 Tf
+(tuning.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2250 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+14 TL
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 9 - Representation Learning: Dense, sparse, quantized, binary, ColBERT, MRL,) Tj
+T*
+/F1 10 Tf
+(embedding fine-tuning.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 10 - Production RAG Systems: LangChain 2026, LlamaIndex, Hybrid RAG, Self-RAG,) Tj
+T*
+/F1 10 Tf
+(Corrective RAG, ColPali, GraphRAG, RAG Security.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 11 - Agentic Systems: LangGraph, PydanticAI, Pydantic Evals, MCP, A2A protocols.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 12 - Agent Orchestration: MCP, A2A, function calling, agent observability.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 13 - Context Engineering: Context compression, LLMLingua, RECOMP, lm-eval,) Tj
+T*
+/F1 10 Tf
+(Inspect AI, E2B sandboxes.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 14 - LLMOps & Observability: LangSmith, Langfuse, Logfire, RAGAS, caching, token) Tj
+T*
+/F1 10 Tf
+(budgeting.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 15 - Production Infrastructure: vLLM, SGLang, llama.cpp, speculative decoding,) Tj
+T*
+/F1 10 Tf
+(Kubernetes, Docker, Helm, GitHub Actions.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Phase 16 - AI Security: NeMo Guardrails, LlamaFirewall, Presidio PII, LiteLLM) Tj
+T*
+/F1 10 Tf
+(gateways, RBAC.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 16 Tf
+(OFFICIAL TOOLING COVERED) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(n8n, Claude 3.5 Sonnet, OpenAI GPT-4o & o3, NVIDIA NeMo & NIM, Hugging Face,) Tj
+T*
+/F1 10 Tf
+(DeepSeek-R1 & V3, Meta LLaMA 3.3, Google Gemini 1.5, LangGraph & LangChain, Qdrant &) Tj
+T*
+/F1 10 Tf
+(Pinecone, vLLM & Ollama, FastMCP & Docker/K8s.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 16 Tf
+(CAREER OUTCOMES) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Global AI Engineer Salary: $120K - $250K/yr.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Remote consulting rate: $80 - $250/hr.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(Enterprise AI agency retainers: $5,000 - $25,000 per project.) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 16 Tf
+(SECURITY & COMPLIANCE) Tj
+T*
+/F1 10 Tf
+() Tj
+T*
+/F1 10 Tf
+(NVIDIA NeMo Guardrails, Microsoft Presidio PII masking, OWASP Top 10 for LLMs defense,) Tj
+T*
+/F1 10 Tf
+(private air-gapped VPC deployment, RBAC, prompt injection defense, and retrieval) Tj
+T*
+/F1 10 Tf
+(security.) Tj
+T*
+/F1 10 Tf
+() Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000296 00000 n 
+0000002939 00000 n 
+0000003114 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5416
+%%EOF

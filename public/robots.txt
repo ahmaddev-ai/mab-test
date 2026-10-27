@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ahmadbasit.com
+
+# Sitemaps
+Sitemap: https://ahmadbasit.com/sitemap.xml

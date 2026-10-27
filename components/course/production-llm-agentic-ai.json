@@ -1,0 +1,3337 @@
+{
+  "slug": "production-llm-and-agentic-ai-engineering",
+  "seo": {
+    "title": "Production LLM & Agentic AI Engineering Master Program",
+    "description": "Master {modules} modules across LLM fine-tuning, agentic swarms, computer vision, AI security, AIOps and LLMOps with Mian Ahmad Basit.",
+    "canonical": "/production-llm-and-agentic-ai-engineering"
+  },
+  "layout": [
+    "videos",
+    "highlights",
+    "career",
+    "roadmap",
+    "curriculum",
+    "mentor",
+    "tools",
+    "simulator",
+    "security",
+    "stack",
+    "instructors",
+    "bonuses",
+    "diagnostic",
+    "faq",
+    "finalCta"
+  ],
+  "nav": [
+    {
+      "id": "hero",
+      "label": "Overview",
+      "short": "Top"
+    },
+    {
+      "id": "videos",
+      "label": "Watch",
+      "short": "Watch"
+    },
+    {
+      "id": "highlights",
+      "label": "Why this program",
+      "short": "Why"
+    },
+    {
+      "id": "career",
+      "label": "Career & earning",
+      "short": "Career"
+    },
+    {
+      "id": "roadmap",
+      "label": "Roadmap",
+      "short": "Path"
+    },
+    {
+      "id": "curriculum",
+      "label": "Curriculum",
+      "short": "Syllabus"
+    },
+    {
+      "id": "tools",
+      "label": "Official tools",
+      "short": "Tools"
+    },
+    {
+      "id": "simulator",
+      "label": "Live simulator",
+      "short": "Sim"
+    },
+    {
+      "id": "security",
+      "label": "AI security",
+      "short": "Security"
+    },
+    {
+      "id": "stack",
+      "label": "Tech stack",
+      "short": "Stack"
+    },
+    {
+      "id": "instructors",
+      "label": "Instructors",
+      "short": "Mentors"
+    },
+    {
+      "id": "bonuses",
+      "label": "Bonuses",
+      "short": "Bonus"
+    },
+    {
+      "id": "faq",
+      "label": "FAQ",
+      "short": "FAQ"
+    }
+  ],
+  "offer": {
+    "enabled": true,
+    "discountPercent": 10,
+    "code": "MASTER10",
+    "endsAt": "2026-10-15T23:59:59+05:00",
+    "headline": "Get 10% off the Master Cohort",
+    "subtext": "Enroll before the timer ends and mention the code in your application.",
+    "disclaimer": "Offer valid until the timer ends. Seats are limited."
+  },
+  "enrollment": {
+    "recipient": "ahmadhasandevai@gmail.com",
+    "formTitle": "Enroll Now - AI, GenAI & Agentic AI Master Program",
+    "eyebrow": "Master Cohort",
+    "heading": "Enroll now",
+    "subtitle": "AI, GenAI & Agentic AI Master Program",
+    "thankYouPath": "/thank-you",
+    "thankYouTitle": "Thank You!",
+    "thankYouMessage": "Your enrollment request has been received successfully. Our team will contact you shortly."
+  },
+  "syllabus": {
+    "title": "Download the full master syllabus (PDF)",
+    "description": "Save every phase, module, topic and project outline to your device.",
+    "href": "/syllabus/production-llm-agentic-ai-syllabus.pdf",
+    "filename": "Production-LLM-Agentic-AI-Syllabus.pdf",
+    "button": "Download syllabus PDF"
+  },
+  "hero": {
+    "leadBadge": "Lead instructor & CTO: Mian Ahmad Basit",
+    "kicker": "Stop building toy demos. Start shipping production AI systems.",
+    "title": "Production LLM & Agentic AI",
+    "titleAccent": "Engineering Master Program",
+    "highlight": "Go deep on {modules} modules covering LLM fine-tuning, agentic swarms, computer vision, AI security and LLMOps.",
+    "description": "A hands-on 7-8 month specialization led by Mian Ahmad Basit. You will fine-tune DeepSeek-R1 and LLaMA 3.1 with QLoRA and DPO, build multi-agent systems with MCP and A2A, ship ColPali vision RAG, add NeMo security guardrails and run it all on Kubernetes.",
+    "primaryCta": "Apply for Master Cohort",
+    "secondaryCta": {
+      "label": "Explore curriculum",
+      "href": "#curriculum"
+    },
+    "tertiaryCta": {
+      "label": "Try the live simulator",
+      "href": "#simulator"
+    },
+    "chips": [
+      "AI Security & RBAC",
+      "AIOps & LLMOps",
+      "Vision & VLMs",
+      "Fine-Tuning & DPO",
+      "MCP & A2A Agents",
+      "GraphRAG & Vector"
+    ],
+    "journeyTitle": "Your learning path",
+    "journey": [
+      "Python",
+      "ML",
+      "Deep Learning",
+      "Transformers",
+      "LLM Fine-Tuning",
+      "Computer Vision & VLMs",
+      "Multimodal RAG",
+      "Agentic AI & MCP/A2A",
+      "AI Security & Guardrails",
+      "AIOps/LLMOps",
+      "Kubernetes Cloud"
+    ],
+    "stats": [
+      {
+        "value": "{modules}",
+        "label": "Modules in {phases} phases"
+      },
+      {
+        "value": "{topics}+",
+        "label": "Topics and subtopics"
+      },
+      {
+        "value": "2 years",
+        "label": "LMS access"
+      },
+      {
+        "value": "50,000+",
+        "label": "Alumni"
+      }
+    ]
+  },
+  "videos": {
+    "heading": "See the program in action",
+    "description": "Short clips from the classroom, student projects and instructor walkthroughs.",
+    "items": [
+      {
+        "title": "Program walkthrough",
+        "subtitle": "What you will build",
+        "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+        "thumbnail": "",
+        "orientation": "portrait"
+      },
+      {
+        "title": "Student project demo",
+        "subtitle": "Multi-agent system",
+        "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+        "thumbnail": "",
+        "orientation": "portrait"
+      },
+      {
+        "title": "Live class highlight",
+        "subtitle": "Weekend session",
+        "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+        "thumbnail": "",
+        "orientation": "portrait"
+      },
+      {
+        "title": "RAG in action",
+        "subtitle": "Hybrid retrieval",
+        "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+        "thumbnail": "",
+        "orientation": "portrait"
+      },
+      {
+        "title": "Guardrails demo",
+        "subtitle": "Prompt injection defense",
+        "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+        "thumbnail": "",
+        "orientation": "portrait"
+      },
+      {
+        "title": "Alumni story",
+        "subtitle": "From student to AI engineer",
+        "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+        "thumbnail": "",
+        "orientation": "portrait"
+      }
+    ]
+  },
+  "highlights": {
+    "heading": "Everything you need to become a production AI engineer",
+    "description": "One structured path from Python basics to secure, cloud-deployed agentic systems.",
+    "items": [
+      {
+        "icon": "layers",
+        "color": "cyan",
+        "title": "{phases} learning phases",
+        "description": "From Python and ML to advanced agentic AI"
+      },
+      {
+        "icon": "book",
+        "color": "blue",
+        "title": "{topics}+ topics and subtopics",
+        "description": "Complete technical depth, nothing skipped"
+      },
+      {
+        "icon": "shield",
+        "color": "emerald",
+        "title": "Production-focused",
+        "description": "Evals, guardrails, RAG and observability"
+      },
+      {
+        "icon": "cpu",
+        "color": "violet",
+        "title": "AI + ML + DL + GenAI",
+        "description": "Complete foundations to state of the art"
+      },
+      {
+        "icon": "cloud",
+        "color": "orange",
+        "title": "AWS, GCP, Azure and VPS",
+        "description": "Cloud orchestration and multi-cloud deployment"
+      },
+      {
+        "icon": "terminal",
+        "color": "indigo",
+        "title": "Hands-on projects",
+        "description": "Real agentic architectures and systems"
+      }
+    ],
+    "includesTitle": "What is included",
+    "includes": [
+      "{modules} modules, {topics}+ topics",
+      "Zero-omission syllabus",
+      "Practical GitHub repos",
+      "Production-grade code",
+      "25+ research papers",
+      "Deep research sessions",
+      "Live weekend sessions, 8-11 PM",
+      "2 years LMS access"
+    ]
+  },
+  "roadmap": {
+    "heading": "Your step-by-step path from zero to senior AI engineer",
+    "description": "Pick a phase to see its goals, skills, tools and modules.",
+    "cta": "Enroll in the Master Cohort"
+  },
+  "curriculum": {
+    "heading": "The complete syllabus",
+    "description": "Every topic, protocol and deployment strategy, organised by phase. Search or filter to find exactly what you need.",
+    "searchPlaceholder": "Search topics (LoRA, LangGraph, MCP, FlashAttention, DeepSeek...)"
+  },
+  "mentor": {
+    "heading": "Direct mentorship, guaranteed",
+    "name": "Mian Ahmad Basit",
+    "role": "Lead instructor, CTO @ PBI & Anz Tech",
+    "quote": "We don't teach surface-level prompts. You will write production Python code, build n8n workflows, deploy open-weight DeepSeek-R1 models, and configure NVIDIA security guardrails.",
+    "cta": "Reserve a seat in the next cohort"
+  },
+  "tools": {
+    "heading": "Learn the official stack used by top AI labs and enterprises",
+    "description": "No toy libraries. You get hands-on practice with n8n, Claude, OpenAI, NVIDIA NeMo, Hugging Face, DeepSeek and Meta LLaMA.",
+    "items": [
+      {
+        "icon": "/tools/n8n.png",
+        "title": "Self-hosted AI",
+        "name": "n8n",
+        "category": "Workflow automation",
+        "detail": "Enterprise AI agent workflow orchestration, webhooks and FastMCP nodes"
+      },
+      {
+        "icon": "/tools/claude.png",
+        "title": "Computer Use & FastMCP",
+        "name": "Claude",
+        "category": "Anthropic AI",
+        "detail": "Artifacts, Computer Use, prompt caching and high-reasoning agent execution"
+      },
+      {
+        "icon": "/tools/openai.avif",
+        "title": "Realtime & function calling",
+        "name": "OpenAI ChatGPT",
+        "category": "Frontier LLM",
+        "detail": "Structured JSON outputs, Assistants API, voice realtime and o1/o3 reasoning"
+      },
+      {
+        "icon": "/tools/nvidianemo.png",
+        "title": "NeMo Guardrails & NIM",
+        "name": "NVIDIA NeMo & NIM",
+        "category": "Enterprise security & acceleration",
+        "detail": "Prompt injection defense, PII masking, TensorRT-LLM microservices"
+      },
+      {
+        "icon": "/tools/huggingface.png",
+        "title": "Transformers & TGI",
+        "name": "Hugging Face",
+        "category": "Open-source ecosystem",
+        "detail": "Model Hub, datasets, Text Generation Inference, PEFT and safetensors"
+      },
+      {
+        "icon": "/tools/deepseek.jpg",
+        "title": "Chain-of-thought (CoT)",
+        "name": "DeepSeek-R1 & V3",
+        "category": "Reasoning & MoE",
+        "detail": "Multi-head Latent Attention (MLA), GRPO rule-based RL and self-hosted distillation"
+      },
+      {
+        "icon": "/tools/metallama.avif",
+        "title": "8B / 70B / 405B",
+        "name": "Meta LLaMA 3.3",
+        "category": "Open weights",
+        "detail": "QLoRA 4-bit, DPO alignment, Unsloth acceleration and on-prem deployment"
+      },
+      {
+        "icon": "/tools/gemini.png",
+        "title": "2M token context",
+        "name": "Google Gemini",
+        "category": "Multimodal frontier",
+        "detail": "Context caching, ColPali vision RAG and video document processing"
+      },
+      {
+        "icon": "/tools/langchain.png",
+        "title": "Stateful swarms",
+        "name": "LangGraph & LangChain",
+        "category": "Agent framework",
+        "detail": "Human-in-the-loop interrupts, state checkpointing and A2A routing"
+      },
+      {
+        "icon": "/tools/qdrant.png",
+        "title": "HNSW & ColBERT",
+        "name": "Qdrant & Pinecone",
+        "category": "Vector database",
+        "detail": "High-density vector indexing, hybrid BM25 retrieval and payload filtering"
+      },
+      {
+        "icon": "/tools/ollama.svg",
+        "title": "PagedAttention",
+        "name": "vLLM & Ollama",
+        "category": "LLMOps serving",
+        "detail": "Continuous batching, LoRA multi-serving and local on-prem cluster execution"
+      },
+      {
+        "icon": "/tools/fastmcp.png",
+        "title": "Helm & Kubernetes",
+        "name": "FastMCP & Docker/K8s",
+        "category": "Protocol & cloud infrastructure",
+        "detail": "Model Context Protocol, containerized microservices and auto-scaling pods"
+      }
+    ],
+    "providersTitle": "Models, providers and automation",
+    "providers": [
+      {
+        "title": "Frontier models & providers",
+        "subtitle": "API and open-weights integration",
+        "tools": [
+          {
+            "name": "OpenAI",
+            "body": "GPT-4o, o1, o3-mini, Realtime API and function calling"
+          },
+          {
+            "name": "Claude (Anthropic)",
+            "body": "Claude 3.5 Sonnet, Artifacts, Computer Use and prompt caching"
+          },
+          {
+            "name": "NVIDIA",
+            "body": "NeMo Guardrails, NIM microservices and TensorRT-LLM"
+          },
+          {
+            "name": "Hugging Face",
+            "body": "Transformers, datasets, TGI, Hub models and PEFT"
+          },
+          {
+            "name": "DeepSeek",
+            "body": "DeepSeek-R1, V3, reasoning chains and distillation"
+          },
+          {
+            "name": "Meta AI",
+            "body": "LLaMA 3.1 / 3.3 (8B, 70B, 405B) fine-tuning"
+          },
+          {
+            "name": "Google Gemini",
+            "body": "Gemini 1.5 Pro/Flash, context caching and multimodal RAG"
+          }
+        ]
+      },
+      {
+        "title": "Workflow & agent automation",
+        "subtitle": "Low-code to code-native platforms",
+        "tools": [
+          {
+            "name": "n8n",
+            "body": "Self-hosted enterprise AI workflow orchestration and webhooks"
+          },
+          {
+            "name": "FastMCP",
+            "body": "Model Context Protocol tooling and server architecture"
+          },
+          {
+            "name": "LangGraph",
+            "body": "Stateful multi-agent swarms with human-in-the-loop"
+          },
+          {
+            "name": "PydanticAI",
+            "body": "Type-safe production agent framework in pure Python"
+          },
+          {
+            "name": "CrewAI / AutoGen",
+            "body": "Role-based multi-agent collaboration networks"
+          },
+          {
+            "name": "Ollama / vLLM",
+            "body": "Local and cloud high-throughput inference engines"
+          }
+        ]
+      }
+    ]
+  },
+  "simulator": {
+    "heading": "See how AI swarms and enterprise RAG pipelines run",
+    "description": "Run the live trace to watch guardrails, tool calls and multi-agent protocols working together.",
+    "topics": [
+      "Multi-agent swarms & MCP",
+      "ColPali vision & GraphRAG",
+      "AI security & NeMo Guardrails",
+      "vLLM serving & Kubernetes"
+    ],
+    "defaultPrompt": "Analyze multi-region cluster health and run automated vulnerability patch via MCP agent swarm.",
+    "logs": [
+      "[System Init] Loading LangGraph Supervisor with FastMCP tools...",
+      "[Security Gate] NVIDIA NeMo Guardrail: Input Sanitized (No PII / No Injection Detected)",
+      "[Agent Router] Request dispatched to DevOps Agent & Code Review Agent via A2A Protocol",
+      "[Tool Call] FastMCP Server invoked: kubectl get pods -n production",
+      "[Reasoning Trace] DeepSeek-R1 chain-of-thought: Identifying memory bottleneck on worker node 04...",
+      "[Human-in-the-Loop] HITL interrupt triggered for write permission: Patch deployment approval required",
+      "[Status] Agent Execution Paused - Waiting for Human Operator Checkpoint"
+    ],
+    "steps": [
+      {
+        "title": "NeMo security gate",
+        "body": "PII masking with Presidio, prompt injection defense and input policy validation."
+      },
+      {
+        "title": "LangGraph supervisor",
+        "body": "Stateful graph routing, checkpoint persistence and human-in-the-loop interrupts."
+      },
+      {
+        "title": "FastMCP & A2A tools",
+        "body": "Standardized Model Context Protocol servers and inter-agent delegation."
+      },
+      {
+        "title": "vLLM & Inspect AI",
+        "body": "High-throughput model serving with LoRA adapter routing and eval-gated score checks."
+      }
+    ],
+    "cta": {
+      "title": "Want to build these architectures from scratch?",
+      "text": "Get the full syllabus and join the Master Cohort.",
+      "button": "Get full code & syllabus"
+    }
+  },
+  "security": {
+    "heading": "Build zero-trust security into production AI",
+    "description": "Enterprise clients will not buy unsafe AI. Learn NeMo Guardrails, Presidio PII masking, prompt injection defense and air-gapped private VPCs.",
+    "coveredIn": "Covered in Phase 10 (RAG security) and Phase 16 (AI security, guardrails and RBAC)",
+    "cards": [
+      {
+        "title": "NVIDIA NeMo Guardrails",
+        "subtitle": "Input, output and dialog rules",
+        "body": "Prevent hallucination, enforce strict brand dialog boundaries and block prompt injection attempts in real time."
+      },
+      {
+        "title": "Microsoft Presidio PII masking",
+        "subtitle": "Data redaction and anonymization",
+        "body": "Automatically strip social security numbers, credit cards, emails and sensitive credentials before they reach LLM APIs."
+      },
+      {
+        "title": "OWASP Top 10 for LLMs defense",
+        "subtitle": "Jailbreak and attack hardening",
+        "body": "Protect against indirect prompt injection, vector database denial-of-service, data poisoning and unauthorized tool calls."
+      },
+      {
+        "title": "Private air-gapped VPC deployment",
+        "subtitle": "On-prem DeepSeek & LLaMA",
+        "body": "Deploy zero-data-leakage open-weight models inside local Kubernetes clusters or isolated AWS/GCP VPCs."
+      }
+    ],
+    "promise": {
+      "title": "The security promise",
+      "quote": "I teach the exact zero-leakage security patterns required by banks, health networks and Fortune 500 enterprises.",
+      "cta": "Apply for the cohort and master security"
+    }
+  },
+  "stack": {
+    "heading": "Master 60+ modern AI frameworks and tools",
+    "description": "From agent orchestrators and coding assistants to protocols, memory systems, observability and cloud environments.",
+    "searchPlaceholder": "Search tools (LangGraph, Claude Code, MCP, Logfire, vLLM...)",
+    "categories": [
+      {
+        "category": "Agent Frameworks",
+        "tools": [
+          {
+            "name": "LangChain",
+            "badge": "Core",
+            "body": "Ecosystem for LLM application components and LCEL pipelines."
+          },
+          {
+            "name": "LangGraph",
+            "badge": "Core",
+            "body": "Stateful, cyclic multi-agent graph orchestration."
+          },
+          {
+            "name": "OpenAI Agents SDK",
+            "badge": "Core",
+            "body": "Official OpenAI SDK for agent loops and tool execution."
+          },
+          {
+            "name": "Google ADK",
+            "badge": "Core",
+            "body": "Google Agent Development Kit for Gemini and Vertex AI."
+          },
+          {
+            "name": "AWS Strands",
+            "badge": "Core",
+            "body": "AWS framework for building cloud-native multi-agent swarms."
+          },
+          {
+            "name": "CrewAI",
+            "badge": "Core",
+            "body": "Role-based multi-agent orchestration framework."
+          },
+          {
+            "name": "LlamaIndex",
+            "badge": "Core",
+            "body": "Data framework for LLMs, RAG and query workflows."
+          },
+          {
+            "name": "n8n",
+            "badge": "",
+            "body": "Visual node-based workflow automation for AI tools."
+          },
+          {
+            "name": "LangFlow",
+            "badge": "",
+            "body": "Interactive visual UI for building and testing AI agents."
+          }
+        ]
+      },
+      {
+        "category": "Coding Agents & IDEs",
+        "tools": [
+          {
+            "name": "Claude Code",
+            "badge": "Core",
+            "body": "Anthropic agentic CLI for workspace code refactoring."
+          },
+          {
+            "name": "OpenClaw",
+            "badge": "",
+            "body": "Open-source autonomous coding agent."
+          },
+          {
+            "name": "NemoClaw",
+            "badge": "",
+            "body": "NVIDIA NeMo backed coding assistant."
+          },
+          {
+            "name": "Hermes Agent",
+            "badge": "Core",
+            "body": "Autonomous agent CLI built for persistent terminal execution."
+          },
+          {
+            "name": "Codex CLI",
+            "badge": "",
+            "body": "Command-line interface for OpenAI code generation."
+          },
+          {
+            "name": "opencode",
+            "badge": "",
+            "body": "Open terminal coding agent for automated repositories."
+          },
+          {
+            "name": "Antigravity IDE",
+            "badge": "Core",
+            "body": "Agentic AI coding workspace powered by Gemini."
+          }
+        ]
+      },
+      {
+        "category": "Protocols & Standards",
+        "tools": [
+          {
+            "name": "MCP (Model Context Protocol)",
+            "badge": "Core",
+            "body": "Open standard for connecting AI models to tools and data sources."
+          },
+          {
+            "name": "A2A (Agent-to-Agent Protocol)",
+            "badge": "Core",
+            "body": "Standardized protocol for inter-agent task delegation and discovery."
+          }
+        ]
+      },
+      {
+        "category": "Memory & Knowledge",
+        "tools": [
+          {
+            "name": "mem0",
+            "badge": "Core",
+            "body": "Universal long-term memory layer for AI agents and assistants."
+          },
+          {
+            "name": "LangGraph Checkpointing",
+            "badge": "Core",
+            "body": "State persistence and time-travel debugging in graph agents."
+          },
+          {
+            "name": "LlamaIndex Memory",
+            "badge": "",
+            "body": "Contextual memory modules for conversational query engines."
+          },
+          {
+            "name": "GraphRAG (Neo4j)",
+            "badge": "Core",
+            "body": "Knowledge graph powered retrieval augmented generation."
+          }
+        ]
+      },
+      {
+        "category": "AgentOps & Observability",
+        "tools": [
+          {
+            "name": "AgentOps",
+            "badge": "Core",
+            "body": "Agent benchmarking, cost analysis and execution tracking."
+          },
+          {
+            "name": "LangSmith",
+            "badge": "Core",
+            "body": "Full-suite tracing, debugging and testing platform."
+          },
+          {
+            "name": "Opik",
+            "badge": "",
+            "body": "Open-source LLM evaluation and monitoring engine."
+          },
+          {
+            "name": "Langfuse",
+            "badge": "Core",
+            "body": "Open-source observability, prompt management and analytics."
+          },
+          {
+            "name": "Logfire",
+            "badge": "Core",
+            "body": "Span-level telemetry from the Pydantic team."
+          }
+        ]
+      },
+      {
+        "category": "Core AI Concepts",
+        "tools": [
+          {
+            "name": "RAG",
+            "badge": "Core",
+            "body": "Retrieval Augmented Generation for external knowledge grounding."
+          },
+          {
+            "name": "Agentic RAG",
+            "badge": "Core",
+            "body": "Agent-driven dynamic search, self-correction and synthesis."
+          },
+          {
+            "name": "Context Engineering",
+            "badge": "Core",
+            "body": "Optimizing context windows, pruning and memory layout."
+          },
+          {
+            "name": "Prompt Engineering",
+            "badge": "Core",
+            "body": "CoT, few-shot and structured prompt optimization."
+          },
+          {
+            "name": "Pydantic",
+            "badge": "Core",
+            "body": "Data validation and typed schemas for LLM contracts."
+          },
+          {
+            "name": "Vector DBs (Qdrant/Pinecone)",
+            "badge": "Core",
+            "body": "High-speed vector similarity indices."
+          },
+          {
+            "name": "Agent Evaluation (Inspect AI)",
+            "badge": "Core",
+            "body": "Task, solver and scorer evaluation harnesses."
+          },
+          {
+            "name": "Agent Security & RBAC",
+            "badge": "Core",
+            "body": "Multi-tenant isolation, prompt defense and JWT RBAC."
+          },
+          {
+            "name": "Guardrails (NeMo / Presidio)",
+            "badge": "Core",
+            "body": "Input/output scanners, toxicity filters and PII masking."
+          },
+          {
+            "name": "FAISS",
+            "badge": "",
+            "body": "Facebook AI Similarity Search vector library."
+          },
+          {
+            "name": "Tavily",
+            "badge": "Core",
+            "body": "Search API optimized for LLM agent research loops."
+          }
+        ]
+      },
+      {
+        "category": "Deployment & Web UI",
+        "tools": [
+          {
+            "name": "Docker",
+            "badge": "Core",
+            "body": "Multi-stage containerization for reproducible builds."
+          },
+          {
+            "name": "GitHub Actions",
+            "badge": "Core",
+            "body": "Automated CI/CD workflows for testing and deployment."
+          },
+          {
+            "name": "FastAPI",
+            "badge": "Core",
+            "body": "High-performance Python web framework for async AI APIs."
+          },
+          {
+            "name": "BentoML",
+            "badge": "",
+            "body": "Unified framework for serving and packaging ML models."
+          },
+          {
+            "name": "Nginx",
+            "badge": "",
+            "body": "High-performance reverse proxy and SSL termination."
+          },
+          {
+            "name": "Streamlit",
+            "badge": "Core",
+            "body": "Rapid Python web UI prototyping for data and AI."
+          },
+          {
+            "name": "Gradio",
+            "badge": "",
+            "body": "Interactive Python interfaces for machine learning models."
+          }
+        ]
+      },
+      {
+        "category": "Cloud Infrastructure",
+        "tools": [
+          {
+            "name": "AWS (EKS / Bedrock / Lambda)",
+            "badge": "Core",
+            "body": "Amazon Web Services cloud suite for AI workloads."
+          },
+          {
+            "name": "GCP (Vertex AI / Cloud Run / GKE)",
+            "badge": "Core",
+            "body": "Google Cloud Platform AI and serverless containers."
+          },
+          {
+            "name": "Azure (Azure OpenAI / AI Foundry)",
+            "badge": "Core",
+            "body": "Microsoft Azure enterprise cloud platform."
+          },
+          {
+            "name": "Self-Hosted VPS",
+            "badge": "Core",
+            "body": "Bare-metal and private virtual servers for cost efficiency."
+          }
+        ]
+      },
+      {
+        "category": "Model Providers & Inference",
+        "tools": [
+          {
+            "name": "OpenAI (GPT-4o / o3-mini)",
+            "badge": "Core",
+            "body": "Frontier models and structured output endpoints."
+          },
+          {
+            "name": "Anthropic (Claude 3.5 Sonnet)",
+            "badge": "Core",
+            "body": "High intelligence reasoning and coding models."
+          },
+          {
+            "name": "Google Gemini (1.5 Pro / Flash)",
+            "badge": "Core",
+            "body": "Multimodal 2M+ token context window models."
+          },
+          {
+            "name": "Groq",
+            "badge": "Core",
+            "body": "Ultra-fast LPU inference engine for open-source LLMs."
+          },
+          {
+            "name": "Ollama",
+            "badge": "Core",
+            "body": "Local LLM runner for LLaMA-3, DeepSeek-R1 and Phi-3."
+          },
+          {
+            "name": "AWS Bedrock",
+            "badge": "Core",
+            "body": "Managed foundation models on Amazon Web Services."
+          },
+          {
+            "name": "Azure OpenAI",
+            "badge": "Core",
+            "body": "Enterprise-grade managed OpenAI endpoints on Azure."
+          }
+        ]
+      }
+    ]
+  },
+  "instructors": {
+    "heading": "Learn from practitioners who ship AI for a living",
+    "description": "Technical educators and system architects guiding you from Python basics to autonomous multi-agent systems.",
+    "lead": {
+      "name": "Mian Ahmad Basit",
+      "role": "Lead instructor",
+      "headline": "AI Engineer - GenAI - Agentic AI - Cloud",
+      "title": "CEO, CTO & Lead AI Engineering Trainer",
+      "badge": "Lead technical trainer & curriculum architect",
+      "image": "/mab.webp",
+      "quote": "My mission is to close the gap between toy AI demos and production-grade engineering. As CTO at Pakistan Blockchain Institute and Anz Technologies, founder of P2P Clouds, and mentor to 50,000+ engineers, I guide developers step by step: from Python, linear algebra and PyTorch to fine-tuning LLaMA and DeepSeek, building agentic RAG graphs with LangGraph, mastering MCP and A2A, and deploying secure multi-tenant agent systems on the cloud.",
+      "facts": [
+        "50,000+ trained learners worldwide",
+        "50+ live AI SaaS & BaaS products built",
+        "CTO @ Pakistan Blockchain Institute",
+        "Founder of P2P Clouds & tech lead"
+      ],
+      "socials": [
+        {
+          "type": "portfolio",
+          "label": "Portfolio",
+          "text": "ahmadbasit.com",
+          "href": "https://ahmadbasit.com"
+        },
+        {
+          "type": "linkedin",
+          "label": "LinkedIn",
+          "href": "https://pk.linkedin.com/in/mianahmadbasit"
+        },
+        {
+          "type": "twitter",
+          "label": "Twitter / X",
+          "href": "https://twitter.com/MianAhmadBasit1"
+        },
+        {
+          "type": "instagram",
+          "label": "Instagram",
+          "href": "https://www.instagram.com/mianahmadbasit"
+        },
+        {
+          "type": "github",
+          "label": "GitHub",
+          "href": "https://github.com/MianAhmadBasit"
+        },
+        {
+          "type": "email",
+          "label": "Email",
+          "href": "mailto:info@p2pclouds.net"
+        }
+      ]
+    },
+    "teamTitle": "More from the faculty",
+    "team": [
+      {
+        "name": "Zeeshan Ali",
+        "role": "Lead instructor",
+        "title": "Technical Project Manager @p2pclouds",
+        "image": "/zeeshan.jpg",
+        "linkedin": "https://www.linkedin.com/in/zeeshan-ali-dev/",
+        "website": "https://zeeshanai.com/",
+        "websiteLabel": "zeeshanai.com"
+      },
+      {
+        "name": "Ahmad Hasan",
+        "role": "Instructor",
+        "title": "Software Engineer",
+        "image": "/ahmad.png",
+        "linkedin": "https://www.linkedin.com/in/ahmaddev-ai/",
+        "website": "https://p2pclouds.net/",
+        "websiteLabel": "P2P Clouds"
+      }
+    ]
+  },
+  "career": {
+    "heading": "Career scope and earning potential",
+    "description": "AI engineering is one of the most in-demand technical skill sets. These ranges show what skilled engineers can charge.",
+    "disclaimer": "Illustrative market ranges, not income guarantees. Your results depend on your skills, portfolio and effort.",
+    "cards": [
+      {
+        "title": "Full-time jobs",
+        "label": "Global AI engineer salary",
+        "value": "$120K - $250K / yr",
+        "body": "Top remote positions across US, UK, EU and UAE companies seeking specialized agentic and RAG engineers."
+      },
+      {
+        "title": "Upwork & LinkedIn",
+        "label": "Remote consulting rate",
+        "value": "$80 - $250 / hr",
+        "body": "High-ticket hourly rates for custom DeepSeek fine-tuning, vector database optimization and agent setups."
+      },
+      {
+        "title": "Per-project contracts",
+        "label": "Enterprise AI agency retainer",
+        "value": "$5,000 - $25,000",
+        "body": "Building multi-tenant AI SaaS, self-hosted n8n automation and confidential enterprise RAG pipelines."
+      }
+    ],
+    "calculator": {
+      "title": "Freelancing income estimator",
+      "text": "Estimate your monthly revenue from part-time remote consulting.",
+      "rate": {
+        "label": "Hourly rate",
+        "unit": "$/hr",
+        "min": 50,
+        "max": 250,
+        "step": 10,
+        "default": 120,
+        "minLabel": "$50 junior",
+        "maxLabel": "$250 architect"
+      },
+      "hours": {
+        "label": "Hours per week",
+        "unit": "hrs/wk",
+        "min": 5,
+        "max": 40,
+        "step": 5,
+        "default": 15,
+        "minLabel": "5 hrs side hustle",
+        "maxLabel": "40 hrs full-time"
+      },
+      "weeksPerMonth": 4,
+      "resultLabel": "Estimated monthly earnings",
+      "cta": "Start learning and unlock revenue"
+    }
+  },
+  "bonuses": {
+    "heading": "Student bonuses and career accelerator toolkit",
+    "description": "Beyond the technical curriculum, enrollment includes career placement support, freelancing frameworks, LMS access and direct mentorship.",
+    "items": [
+      {
+        "kicker": "Hands-on practical projects",
+        "heading": "Production repos & full codebases",
+        "body": "Zero fluff or toy demos. You build production-grade, containerized LLM and agent systems on AWS, GCP and Kubernetes.",
+        "points": [
+          "Production GitHub repositories with complete test suites",
+          "Dockerized FastAPI microservices and Helm charts",
+          "DeepSeek-R1 and LLaMA 3.1 QLoRA/DPO fine-tuning notebooks",
+          "ColPali VLM multimodal RAG and Neo4j knowledge graph setups"
+        ]
+      },
+      {
+        "kicker": "LMS recorded lectures",
+        "heading": "2 years of LMS portal access",
+        "body": "Never miss a single insight. Revisit HD class recordings, code repositories and slide decks anytime for 24 months.",
+        "points": [
+          "Searchable HD session recordings with timestamps",
+          "Downloadable Jupyter notebooks and architecture PDF blueprints",
+          "Interactive module quizzes and self-assessment benchmarks",
+          "Quarterly content updates on new AI breakthroughs"
+        ]
+      },
+      {
+        "kicker": "Internship opportunities",
+        "heading": "AI engineering internships & career growth",
+        "body": "Fast-track your career with internship referrals at partner organizations, Pakistan Blockchain Institute and Anz Technologies.",
+        "points": [
+          "Internship placement path for top program performers",
+          "Official verified certificate of completion from the instructor",
+          "1-on-1 portfolio and GitHub profile review by Mian Ahmad Basit",
+          "Mock technical interviews for AI engineer and LLMOps roles"
+        ]
+      },
+      {
+        "kicker": "Freelancing & business development",
+        "heading": "AI agency & freelance business playbook",
+        "body": "Learn how to monetize your skills, win high-ticket $5,000-$25,000 AI consulting clients and launch scalable AI SaaS products.",
+        "points": [
+          "Proven Upwork and LinkedIn client acquisition scripts",
+          "Enterprise AI architecture proposal and scope templates",
+          "Pricing models for custom LLM fine-tuning and agentic automation",
+          "Building multi-tenant AI SaaS/BaaS products from scratch"
+        ]
+      }
+    ],
+    "quote": {
+      "title": "Direct guidance by Mian Ahmad Basit",
+      "subtitle": "CTO @ Pakistan Blockchain Institute & Anz Technologies, founder of P2P Clouds",
+      "quote": "I review code repos, guide business pitches and personally mentor candidates aiming for senior AI roles.",
+      "cta": "Unlock all bonuses and apply"
+    }
+  },
+  "diagnostic": {
+    "heading": "Where do you stand in your AI journey?",
+    "description": "Answer 3 quick questions to find your personalized entry point.",
+    "questions": [
+      {
+        "question": "What is your current background in Python and programming?",
+        "options": [
+          "I am a complete beginner",
+          "I know basic Python and programming",
+          "I have intermediate programming experience",
+          "I am an experienced software developer"
+        ]
+      },
+      {
+        "question": "How much experience do you have with AI, machine learning or LLMs?",
+        "options": [
+          "I have no experience with AI/ML",
+          "I understand basic AI/ML concepts",
+          "I have built AI/ML or LLM projects",
+          "I work professionally with AI/LLM systems"
+        ]
+      },
+      {
+        "question": "What is your primary goal for learning agentic AI?",
+        "options": [
+          "Build a strong programming and AI foundation",
+          "Build AI agents and automation systems",
+          "Build production-grade LLM applications",
+          "Become an advanced AI/LLM engineer"
+        ]
+      }
+    ],
+    "results": {
+      "foundation": {
+        "phase": "Phase 0: Programming & AI Foundations",
+        "description": "Start with Phase 0 to build strong foundations in Python, programming, APIs and core AI concepts before moving into advanced systems."
+      },
+      "agentic": {
+        "phase": "Phase 11: Agentic AI & Automation",
+        "description": "Focus on AI agents, tool calling, workflows, MCP, A2A protocols, orchestration and production automation systems."
+      },
+      "production": {
+        "phase": "Phase 10: Production LLM Engineering",
+        "description": "Focus on RAG, LLM application architecture, evaluation, guardrails, observability, deployment and production AI systems."
+      },
+      "advanced": {
+        "phase": "Phase 4: Advanced AI Engineering",
+        "description": "You are ready for advanced topics including multi-agent systems, custom LLMs, fine-tuning, AI security, LLMOps and scalable AI infrastructure."
+      }
+    },
+    "rules": [
+      {
+        "result": "foundation",
+        "match": "any",
+        "conditions": [
+          {
+            "question": 0,
+            "options": [0]
+          },
+          {
+            "question": 1,
+            "options": [0]
+          }
+        ]
+      },
+      {
+        "result": "agentic",
+        "match": "all",
+        "conditions": [
+          {
+            "question": 2,
+            "options": [1]
+          }
+        ]
+      },
+      {
+        "result": "production",
+        "match": "all",
+        "conditions": [
+          {
+            "question": 2,
+            "options": [2]
+          }
+        ]
+      }
+    ],
+    "defaultResult": "advanced",
+    "enrollCta": "Enroll in your track",
+    "retakeLabel": "Retake the quiz"
+  },
+  "faq": {
+    "heading": "Frequently asked questions",
+    "description": "Clear answers about the program structure, prerequisites, tools and support.",
+    "searchPlaceholder": "Search questions (Python, RAG, MCP, fine-tuning, AWS...)",
+    "initialCount": 8,
+    "items": [
+      {
+        "question": "Who is this program for?",
+        "answer": "Python developers, software engineers, AI/ML engineers, data scientists, full-stack developers and technical professionals moving into modern production AI."
+      },
+      {
+        "question": "What makes this different from prompt engineering courses?",
+        "answer": "If you want to move beyond surface-level prompting and build production-grade agentic systems, fine-tuned LLMs and cloud-native AI pipelines, this program is designed for you."
+      },
+      {
+        "question": "Who is the instructor?",
+        "answer": "The lead instructor is Mian Ahmad Basit, supported by experienced engineers from the faculty."
+      },
+      {
+        "question": "Do I need advanced AI experience before joining?",
+        "answer": "No. The roadmap starts with Python, math, ML, deep learning and NLP foundations before moving into transformers, LLM fine-tuning, RAG, agents, security and cloud deployment."
+      },
+      {
+        "question": "Will we write real production code?",
+        "answer": "Yes. The program focuses on production Python, FastAPI services, Dockerized systems, vector databases, agent orchestration, guardrails, observability and cloud deployment patterns."
+      },
+      {
+        "question": "Which LLMs and model providers are covered?",
+        "answer": "OpenAI GPT-4o and o-series models, Claude 3.5 Sonnet, DeepSeek-R1 and V3, Meta LLaMA 3.1/3.3, Google Gemini, Hugging Face models, Ollama and vLLM."
+      },
+      {
+        "question": "Does the program include RAG and GraphRAG?",
+        "answer": "Yes. You cover hybrid RAG, Self-RAG, Corrective RAG, Adaptive RAG, ColPali multimodal RAG, Neo4j GraphRAG, vector search, reranking, retrieval security and evaluation."
+      },
+      {
+        "question": "Will I learn AI agents and multi-agent systems?",
+        "answer": "Yes. The curriculum includes LangGraph, PydanticAI, MCP, A2A protocols, tool calling, supervisor agents, state checkpointing, human-in-the-loop workflows and agent observability."
+      },
+      {
+        "question": "Is fine-tuning included?",
+        "answer": "Yes. You learn SFT, LoRA, QLoRA, DoRA, DPO, GRPO, ORPO, quantization, synthetic datasets, PEFT workflows and open-weight model deployment."
+      },
+      {
+        "question": "Does this cover AI security?",
+        "answer": "Yes. Security topics include prompt injection defense, NVIDIA NeMo Guardrails, Microsoft Presidio PII masking, LlamaFirewall, OWASP Top 10 for LLMs, RBAC and private VPC deployment."
+      },
+      {
+        "question": "Will we deploy systems to cloud infrastructure?",
+        "answer": "Yes. Deployment topics include Docker, Kubernetes, Helm, GitHub Actions, vLLM, SGLang, llama.cpp, AWS EKS, GCP, Azure, VPS hosting and production observability."
+      },
+      {
+        "question": "Are n8n and automation workflows included?",
+        "answer": "Yes. You learn self-hosted n8n workflow automation, webhooks, FastMCP tool nodes, agent workflows and enterprise automation patterns."
+      },
+      {
+        "question": "Does the program include computer vision and multimodal AI?",
+        "answer": "Yes. The curriculum covers ViT, CLIP, SigLIP, DINOv2, LLaVA, Qwen-2-VL, VLMs, image understanding, multimodal retrieval and video/document processing."
+      },
+      {
+        "question": "Are recordings or LMS access included?",
+        "answer": "Yes. The program includes 2 years of dedicated LMS access with recordings, repositories, notebooks, slide decks, quizzes and periodic content updates."
+      },
+      {
+        "question": "What kind of projects will I build?",
+        "answer": "Production RAG pipelines, multi-agent systems, secure AI APIs, fine-tuning notebooks, vector database systems, n8n automations, guardrail-enabled assistants and cloud-deployed AI services."
+      },
+      {
+        "question": "Can this help with freelancing or consulting?",
+        "answer": "Yes. The program includes career and business guidance for AI consulting, Upwork and LinkedIn positioning, proposal templates, pricing models, retainers and AI agency workflows."
+      },
+      {
+        "question": "Is this suitable for full-stack developers?",
+        "answer": "Yes. Full-stack developers can use this program to move from app development into AI SaaS, agentic automation products, RAG platforms and cloud-native AI systems."
+      },
+      {
+        "question": "Is this suitable for ML engineers?",
+        "answer": "Yes. ML engineers can deepen their skills in transformer internals, fine-tuning, model serving, LLMOps, evaluation, observability, RAG security and production deployment."
+      },
+      {
+        "question": "What tools are used for observability and evaluation?",
+        "answer": "LangSmith, Langfuse, Logfire, RAGAS, Inspect AI, Pydantic Evals, lm-eval, token budgeting, semantic caching, tracing and score-gated deployment."
+      },
+      {
+        "question": "How long is the program?",
+        "answer": "It is a deep 7-8 month engineering specialization with a complete progression from foundations to production AI architecture."
+      },
+      {
+        "question": "Do I get mentorship from Mian Ahmad Basit?",
+        "answer": "Yes. You get direct guidance, live weekend sessions, code review checkpoints, architecture blueprints and mentorship from Mian Ahmad Basit."
+      },
+      {
+        "question": "Will I receive a certificate?",
+        "answer": "Yes. Students who complete the required learning and project milestones receive an official verified certificate of completion from the instructor."
+      },
+      {
+        "question": "Can beginners join?",
+        "answer": "Yes, if you are willing to follow the Phase 0 foundations seriously. The program starts from Python and AI foundations and moves into advanced production engineering."
+      },
+      {
+        "question": "What is the end goal of the program?",
+        "answer": "To move you from toy demos to shipping secure, evaluated, observable, cloud-deployed AI systems for jobs, freelancing, consulting and product development."
+      }
+    ]
+  },
+  "finalCta": {
+    "kicker": "Build the future of AI, one system at a time",
+    "title": "Go beyond prompting.",
+    "text": "Learn how modern AI systems are designed, trained, fine-tuned, retrieved, orchestrated, evaluated, secured and deployed, with lead mentor Mian Ahmad Basit.",
+    "primaryCta": "Start your AI engineering journey",
+    "secondaryCta": {
+      "label": "Explore the curriculum",
+      "href": "#curriculum"
+    },
+    "path": [
+      "Python",
+      "ML",
+      "DL",
+      "NLP",
+      "Transformers",
+      "LLMs",
+      "Fine-Tuning",
+      "RAG",
+      "Agentic AI",
+      "Multi-Agent",
+      "AgentOps",
+      "Cloud",
+      "Production"
+    ]
+  },
+  "phases": [
+    {
+      "id": "phase-0",
+      "badge": "Phase 0",
+      "domain": "Phase 0",
+      "title": "Programming & AI Foundations",
+      "description": "Python fundamentals, object-oriented design, async concurrency and the project engineering prerequisites required for AI systems.",
+      "weeks": "Weeks 1 - 2",
+      "checkpoint": "Python Engineering Checkpoint",
+      "milestone": "Master Production-Grade Python",
+      "skills": ["Python", "OOP", "Async", "Git"],
+      "tools": ["Python", "Git", "venv", "Poetry"],
+      "modules": [
+        {
+          "id": "P0-01",
+          "title": "Python Syntax & Core Fundamentals",
+          "subtitle": "Deep dive into Python language constructs, data structures and memory mechanics.",
+          "overview": "Build production-grade Python foundations covering syntax, data structures, functions, exceptions, file handling, environments, packages and dependency management.",
+          "topicGroups": [
+            {
+              "icon": "code",
+              "title": "Core Syntax & Control Flow",
+              "items": [
+                "Python syntax and fundamentals",
+                "Variables and data types",
+                "Arithmetic, logical and bitwise operators",
+                "Conditional statements: if, elif, else",
+                "for and while loops",
+                "break and continue"
+              ]
+            },
+            {
+              "icon": "function",
+              "title": "Functions & Functional Paradigms",
+              "items": [
+                "Functions and function arguments",
+                "*args and **kwargs",
+                "Lambda functions and anonymous execution",
+                "Lists, tuples, sets and dictionaries",
+                "List, dictionary and set comprehensions",
+                "String manipulation",
+                "Regular expression parsing"
+              ]
+            },
+            {
+              "icon": "folder",
+              "title": "Files, Exceptions & Environments",
+              "items": [
+                "File handling",
+                "Context management",
+                "try, except and finally",
+                "Modules and packages",
+                "Relative imports",
+                "venv, Conda and Poetry",
+                "pip package management",
+                "Dependency locking"
+              ]
+            }
+          ],
+          "keyOutcome": "Build clean Python projects using production-grade syntax, data structures, packaging and dependency management."
+        },
+        {
+          "id": "P0-02",
+          "title": "Object-Oriented & Advanced Python Paradigms",
+          "subtitle": "Advanced OOP principles, metaprogramming, type hints and asynchronous Python.",
+          "overview": "Master advanced Python mechanics including object-oriented programming, iterators, generators, decorators, typing, dataclasses, asynchronous execution, REST APIs and project engineering.",
+          "topicGroups": [
+            {
+              "icon": "boxes",
+              "title": "Object-Oriented Programming",
+              "items": [
+                "Classes and objects mechanics",
+                "Inheritance",
+                "Multiple inheritance",
+                "Method Resolution Order (MRO)",
+                "Encapsulation and private attributes",
+                "Polymorphism",
+                "Duck typing",
+                "Abstraction",
+                "Abstract Base Classes"
+              ]
+            },
+            {
+              "icon": "code",
+              "title": "Advanced Python Mechanics",
+              "items": [
+                "Iterator protocol",
+                "Custom iterable objects",
+                "Generators and yield",
+                "Memory-efficient iteration",
+                "Decorators and wrapper functions",
+                "Stateful decorators",
+                "Context managers",
+                "__enter__ and __exit__",
+                "Type hints",
+                "Static typing verification",
+                "Dataclasses",
+                "Immutable data structures"
+              ]
+            },
+            {
+              "icon": "zap",
+              "title": "Async Programming & APIs",
+              "items": [
+                "asyncio event loop",
+                "async and await",
+                "Concurrent tasks",
+                "asyncio.gather",
+                "Semaphores",
+                "HTTP and REST fundamentals",
+                "Async HTTP requests",
+                "JSON serialization and deserialization",
+                ".env environment management",
+                "Git and GitHub workflows",
+                "Python project structure",
+                "Package setup"
+              ]
+            }
+          ],
+          "keyOutcome": "Engineer asynchronous, typed and modular Python services ready for AI workloads."
+        }
+      ]
+    },
+    {
+      "id": "ml-phase",
+      "badge": "ML Phase",
+      "domain": "ML Phase",
+      "title": "Machine Learning Foundations",
+      "description": "Complete mathematical foundations (linear algebra, calculus, statistics) and classical supervised and unsupervised ML algorithms.",
+      "weeks": "Weeks 3 - 4",
+      "checkpoint": "ML Foundations Checkpoint",
+      "milestone": "Train, Evaluate & Serialize Classical ML Models",
+      "skills": ["Linear Algebra", "Statistics", "Classical ML"],
+      "tools": ["NumPy", "Scikit-Learn"],
+      "modules": [
+        {
+          "id": "ML-01",
+          "title": "Mathematics for Machine Learning",
+          "subtitle": "The exact mathematical concepts that power vector spaces, optimization loss landscapes and probabilistic models.",
+          "overview": "Build the mathematical intuition required to understand optimization, neural networks and modern AI systems.",
+          "topicGroups": [
+            {
+              "icon": "sigma",
+              "title": "Linear Algebra",
+              "items": [
+                "Scalars, vectors, matrices and tensors",
+                "Matrix addition and transposition",
+                "Dot product",
+                "L1 and L2 vector norms",
+                "Matrix multiplication",
+                "Eigenvalues",
+                "Eigenvectors"
+              ]
+            },
+            {
+              "icon": "chart",
+              "title": "Probability & Statistics",
+              "items": [
+                "Probability fundamentals and axioms",
+                "Conditional probability",
+                "Joint probability",
+                "Bayes theorem",
+                "Bayesian inference",
+                "Discrete and continuous random variables",
+                "Gaussian, Bernoulli and Poisson distributions",
+                "Mean, variance and standard deviation",
+                "Covariance and correlation",
+                "Descriptive vs inferential statistics",
+                "Sampling techniques",
+                "Central Limit Theorem",
+                "Hypothesis testing",
+                "p-values",
+                "Confidence intervals"
+              ]
+            },
+            {
+              "icon": "sigma",
+              "title": "Calculus & Optimization",
+              "items": [
+                "Derivatives and rate of change",
+                "Partial derivatives",
+                "Gradient vectors",
+                "Loss surface geometry",
+                "Chain rule",
+                "Optimization fundamentals",
+                "Convexity"
+              ]
+            }
+          ],
+          "keyOutcome": "Build the mathematical intuition behind optimization and probabilistic modeling used across AI systems."
+        },
+        {
+          "id": "ML-02",
+          "title": "Classical Machine Learning Algorithms & Engineering",
+          "subtitle": "Supervised and unsupervised learning, ensemble methods, feature engineering and model evaluation.",
+          "overview": "Master classical machine learning algorithms alongside the feature engineering and evaluation practices required to ship reliable models.",
+          "topicGroups": [
+            {
+              "icon": "brain",
+              "title": "Classical Machine Learning",
+              "items": [
+                "Supervised learning",
+                "Unsupervised learning",
+                "Semi-supervised learning",
+                "Reinforcement Learning overview",
+                "Linear and multiple regression",
+                "Polynomial regression",
+                "Logistic regression",
+                "KNN",
+                "Naive Bayes",
+                "Decision Trees",
+                "Random Forest",
+                "GBM",
+                "XGBoost",
+                "LightGBM",
+                "CatBoost",
+                "SVM and SVR",
+                "K-Means",
+                "Hierarchical clustering",
+                "DBSCAN",
+                "PCA"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "ML Engineering & Evaluation",
+              "items": [
+                "Feature selection",
+                "One-Hot Encoding",
+                "Target Encoding",
+                "Ordinal Encoding",
+                "MinMax normalization",
+                "Standardization",
+                "Missing-value imputation",
+                "Outlier detection",
+                "Data leakage prevention",
+                "Train/validation/test splitting",
+                "K-Fold cross-validation",
+                "Stratified cross-validation",
+                "Grid Search",
+                "Random Search",
+                "Confusion Matrix",
+                "Accuracy, Precision, Recall and F1",
+                "ROC-AUC and PR-AUC",
+                "MAE, MSE, RMSE and R²",
+                "Bias-variance tradeoff",
+                "Underfitting and overfitting",
+                "L1 and L2 regularization",
+                "Scikit-Learn Pipelines",
+                "joblib and pickle serialization",
+                "ML deployment fundamentals"
+              ]
+            }
+          ],
+          "keyOutcome": "Train, evaluate and serialize classical ML models with production-grade pipelines."
+        }
+      ]
+    },
+    {
+      "id": "dl-phase",
+      "badge": "DL Phase",
+      "domain": "DL Phase",
+      "title": "Deep Learning Foundations",
+      "description": "Neural network architectures, forward and backpropagation, loss landscapes, PyTorch mechanics, CNNs and sequence models.",
+      "weeks": "Weeks 5 - 6",
+      "checkpoint": "Deep Learning Checkpoint",
+      "milestone": "Build Neural Networks in PyTorch",
+      "skills": ["Neural Networks", "PyTorch", "CNNs", "Sequence Models"],
+      "tools": ["PyTorch"],
+      "modules": [
+        {
+          "id": "DL-01",
+          "title": "Neural Networks & Optimization Mechanics",
+          "subtitle": "Perceptrons, multi-layer networks, backpropagation calculus and optimization algorithms.",
+          "overview": "Understand neural network mechanics from perceptrons through backpropagation, optimizers and regularization.",
+          "topicGroups": [
+            {
+              "icon": "cpu",
+              "title": "Neural Network Mechanics",
+              "items": [
+                "Artificial neurons",
+                "Perceptrons",
+                "Linearity limitations",
+                "Forward propagation",
+                "Backpropagation",
+                "Computation graphs",
+                "MSE loss",
+                "Cross-Entropy",
+                "Binary Cross-Entropy",
+                "Gradient Descent",
+                "SGD",
+                "Mini-batch Gradient Descent",
+                "Momentum",
+                "Nesterov acceleration",
+                "Adam",
+                "AdamW",
+                "Cosine Annealing",
+                "Learning-rate warmup",
+                "Xavier initialization",
+                "He initialization"
+              ]
+            },
+            {
+              "icon": "layers",
+              "title": "Normalization & Regularization",
+              "items": [
+                "Sigmoid",
+                "Tanh",
+                "ReLU",
+                "Leaky ReLU",
+                "GELU",
+                "Softmax",
+                "BatchNorm",
+                "LayerNorm",
+                "Dropout",
+                "DropPath",
+                "L1/L2 neural regularization",
+                "Vanishing gradients",
+                "Exploding gradients"
+              ]
+            }
+          ],
+          "keyOutcome": "Trace a neural network from forward propagation through backpropagation and modern optimization."
+        },
+        {
+          "id": "DL-02",
+          "title": "PyTorch, CNNs & Sequence Models",
+          "subtitle": "Hands-on PyTorch engineering, convolutional networks for vision and recurrent architectures for sequences.",
+          "overview": "Engineer models in PyTorch and understand convolutional and recurrent architectures for vision and sequence data.",
+          "topicGroups": [
+            {
+              "icon": "code",
+              "title": "PyTorch Engineering",
+              "items": [
+                "PyTorch tensors",
+                "Tensor memory layout",
+                "Autograd",
+                "Custom nn.Module models",
+                "Dataset and DataLoader",
+                "Training loops",
+                "Validation loops",
+                "CUDA and MPS acceleration",
+                "Mixed precision training",
+                "Checkpointing",
+                "State Dicts",
+                "Transfer learning"
+              ]
+            },
+            {
+              "icon": "image",
+              "title": "CNNs & Sequence Models",
+              "items": [
+                "Convolution operations",
+                "Kernels and filters",
+                "Feature maps",
+                "Stride and padding",
+                "Max and average pooling",
+                "ResNet",
+                "EfficientNet",
+                "Image classification",
+                "RNNs",
+                "LSTMs",
+                "GRUs",
+                "Bidirectional RNNs",
+                "Seq2Seq",
+                "Encoder-decoder architectures",
+                "Teacher forcing",
+                "Introduction to attention"
+              ]
+            }
+          ],
+          "keyOutcome": "Build and train CNNs and sequence models in PyTorch, ready for Transformer architectures."
+        }
+      ]
+    },
+    {
+      "id": "nlp-phase",
+      "badge": "NLP Phase",
+      "domain": "NLP Phase",
+      "title": "NLP Foundations",
+      "description": "Classical text preprocessing, vector embeddings (Word2Vec, GloVe) and sequence modeling for NLP downstream tasks.",
+      "weeks": "Week 7",
+      "checkpoint": "NLP Foundations Checkpoint",
+      "milestone": "Represent Text as Dense Vector Spaces",
+      "skills": ["Tokenization", "Word2Vec", "NER", "Sentiment Analysis"],
+      "tools": ["NLTK", "spaCy"],
+      "modules": [
+        {
+          "id": "NLP-01",
+          "title": "NLP Core Concepts & Vector Spaces",
+          "subtitle": "Text representation techniques from lexical features to dense continuous vector spaces.",
+          "overview": "Master classical NLP preprocessing, representation and downstream tasks that lead directly into Transformers.",
+          "topicGroups": [
+            {
+              "icon": "type",
+              "title": "NLP Foundations",
+              "items": [
+                "Text normalization",
+                "Unicode handling",
+                "Tokenization",
+                "Stopword removal",
+                "Stemming",
+                "Lemmatization",
+                "N-grams",
+                "Bag of Words",
+                "TF-IDF",
+                "Word2Vec CBOW",
+                "Word2Vec Skip-Gram",
+                "Negative sampling",
+                "GloVe",
+                "Contextual embeddings",
+                "Text classification",
+                "Topic modeling",
+                "NER",
+                "Sentiment analysis",
+                "Intent recognition",
+                "Language modeling",
+                "Translation",
+                "Summarization",
+                "Attention in NLP"
+              ]
+            }
+          ],
+          "keyOutcome": "Build classical NLP pipelines and understand the representations that lead directly into Transformers."
+        }
+      ]
+    },
+    {
+      "id": "phase-1",
+      "badge": "Phase 1",
+      "domain": "Phase 1",
+      "title": "AI Foundations & Transformers 101",
+      "description": "Deep dive into Transformers, self-attention and full tokenization strategies (BPE, WordPiece, SentencePiece).",
+      "weeks": "Weeks 8 - 9",
+      "checkpoint": "Transformer Engineering Checkpoint",
+      "milestone": "Implement a Transformer Attention Block",
+      "skills": ["Self-Attention", "Tokenization", "BPE"],
+      "tools": ["PyTorch", "Transformers", "tiktoken"],
+      "modules": [
+        {
+          "id": "01-A",
+          "title": "Transformers 101 & Attention Mechanism",
+          "subtitle": "Embeddings, self-attention and Transformer architectures.",
+          "overview": "Understand the mathematics and implementation of modern Transformer blocks from embeddings through attention and positional encoding.",
+          "topicGroups": [
+            {
+              "icon": "network",
+              "title": "Embeddings",
+              "items": [
+                "High-dimensional semantic spaces",
+                "Embedding lookup tables",
+                "Projection matrices",
+                "Cosine similarity",
+                "Dot-product similarity"
+              ]
+            },
+            {
+              "icon": "cpu",
+              "title": "Attention Mechanics",
+              "items": [
+                "Scaled Dot-Product Attention",
+                "Query, Key and Value mathematics",
+                "Self-attention step-by-step",
+                "Multi-Head Attention",
+                "Parallel attention subspaces",
+                "Masked causal attention",
+                "Cross-attention"
+              ]
+            },
+            {
+              "icon": "layers",
+              "title": "Transformer Architectures",
+              "items": [
+                "Sinusoidal positional encoding",
+                "Learned positional encoding",
+                "Original Encoder-Decoder Transformer",
+                "BERT",
+                "RoBERTa",
+                "GPT architecture",
+                "LLaMA architecture",
+                "Encoder-only models",
+                "Decoder-only models"
+              ]
+            }
+          ],
+          "keyOutcome": "Implement and mathematically trace a Transformer attention block from embeddings through attention outputs."
+        },
+        {
+          "id": "01-B",
+          "title": "Tokenization Deep Dive",
+          "subtitle": "BPE, WordPiece, SentencePiece and byte-level tokenization.",
+          "overview": "Understand how modern LLM tokenizers convert raw text into token IDs and handle vocabulary construction, subwords and edge cases.",
+          "topicGroups": [
+            {
+              "icon": "type",
+              "title": "Tokenization Taxonomy",
+              "items": [
+                "Word-level tokenization",
+                "Subword tokenization",
+                "Character-level tokenization",
+                "Byte-level tokenization"
+              ]
+            },
+            {
+              "icon": "code",
+              "title": "Subword Algorithms",
+              "items": [
+                "Byte Pair Encoding",
+                "BPE algorithm step-by-step",
+                "WordPiece",
+                "Unigram tokenization",
+                "SentencePiece",
+                "Byte-level BPE",
+                "tiktoken",
+                "LLaMA tokenizer"
+              ]
+            },
+            {
+              "icon": "boxes",
+              "title": "Vocabulary Engineering",
+              "items": [
+                "Vocabulary construction",
+                "Special tokens",
+                "Unknown tokens",
+                "Padding tokens",
+                "Beginning/end-of-sequence tokens",
+                "Tokenization edge cases",
+                "Token counting",
+                "Context-window budgeting"
+              ]
+            }
+          ],
+          "keyOutcome": "Build and analyze tokenizers while understanding exactly how text becomes model input tokens."
+        }
+      ]
+    },
+    {
+      "id": "phase-2",
+      "badge": "Phase 2",
+      "domain": "Phase 2",
+      "title": "Prompts to Programs & Programmatic LLMs",
+      "description": "Advanced prompt engineering, Pydantic structured schemas, Outlines FSA grammars and DSPy programmatic pipeline optimization.",
+      "weeks": "Weeks 10 - 11",
+      "checkpoint": "Programmatic LLM Checkpoint",
+      "milestone": "Compile an Optimized DSPy Program",
+      "skills": ["Prompt Engineering", "Structured Generation", "DSPy"],
+      "tools": ["Pydantic", "Instructor", "Outlines", "DSPy"],
+      "modules": [
+        {
+          "id": "02-A",
+          "title": "Advanced Prompt Engineering Strategies",
+          "subtitle": "Systematic prompt design, chain-of-thought, meta-prompting and output enforcement.",
+          "overview": "Design robust production prompts using systematic prompting strategies, decomposition, structured outputs and iterative refinement.",
+          "topicGroups": [
+            {
+              "icon": "wand",
+              "title": "Prompt Architecture",
+              "items": [
+                "Anatomy of a production prompt",
+                "Zero-shot prompting",
+                "One-shot prompting",
+                "Few-shot prompting",
+                "System prompt design",
+                "Role assignment",
+                "Output formatting"
+              ]
+            },
+            {
+              "icon": "brain",
+              "title": "Reasoning Strategies",
+              "items": [
+                "Chain-of-Thought prompting",
+                "Step-Back prompting",
+                "Prompt decomposition",
+                "Prompt chaining",
+                "Meta-prompting",
+                "Self-refinement loops"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "Prompt Reliability",
+              "items": [
+                "Prompt sensitivity",
+                "Robustness testing",
+                "Structured generation",
+                "Prompt versioning",
+                "Prompt evaluation"
+              ]
+            }
+          ],
+          "keyOutcome": "Design reliable production prompts instead of relying on ad-hoc prompt experimentation."
+        },
+        {
+          "id": "02-B",
+          "title": "Instructor, Pydantic & Outlines for Typed Outputs",
+          "subtitle": "Guarantee 100% schema-compliant responses using typed validation contracts and token masking.",
+          "overview": "Build schema-controlled LLM applications using Pydantic, Instructor and Outlines with validation, retries and constrained decoding.",
+          "topicGroups": [
+            {
+              "icon": "code",
+              "title": "Instructor & Pydantic",
+              "items": [
+                "Why typed outputs matter",
+                "Instructor client patching",
+                "Pydantic execution contracts",
+                "Automatic validation retries",
+                "Validation-error feedback",
+                "Nested schemas",
+                "Streaming validation",
+                "Async structured outputs",
+                "TOOLS mode",
+                "JSON_SCHEMA mode",
+                "MD_JSON mode"
+              ]
+            },
+            {
+              "icon": "boxes",
+              "title": "Outlines Guided Generation",
+              "items": [
+                "Finite State Automata generation",
+                "Logit-level token masking",
+                "Pydantic schema enforcement",
+                "JSON Schema generation",
+                "Regex-constrained generation",
+                "Context-free grammars",
+                "SQL generation",
+                "Code generation",
+                "Custom DSL generation"
+              ]
+            }
+          ],
+          "keyOutcome": "Build LLM applications whose outputs conform to machine-verifiable schemas instead of unreliable free-form text."
+        },
+        {
+          "id": "02-C",
+          "title": "DSPy: Programmatic LLM Pipeline Optimization",
+          "subtitle": "Replacing manual prompt engineering with compiled, self-optimizing DSPy programs.",
+          "overview": "Replace manual prompt engineering with declarative DSPy programs that automatically optimize instructions, demonstrations and pipeline behavior.",
+          "topicGroups": [
+            {
+              "icon": "code",
+              "title": "DSPy Core",
+              "items": [
+                "Prompt engineering vs programmatic LLMs",
+                "DSPy signatures",
+                "Declarative input/output definitions",
+                "DSPy modules",
+                "Predict",
+                "ChainOfThought",
+                "ReAct",
+                "ProgramOfThought",
+                "LM configuration",
+                "Telemetry"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "DSPy Optimizers",
+              "items": [
+                "BootstrapFewShot",
+                "Automatic few-shot selection",
+                "BootstrapFewShotWithRandomSearch",
+                "MIPROv2",
+                "SIMBA",
+                "GEPA",
+                "BetterTogether",
+                "BootstrapFinetune",
+                "Model distillation"
+              ]
+            }
+          ],
+          "keyOutcome": "Compile an optimized DSPy program instead of manually tuning prompts."
+        }
+      ]
+    },
+    {
+      "id": "phase-3",
+      "badge": "Phase 3",
+      "domain": "Phase 3",
+      "title": "KV Cache & Advanced Attentions",
+      "description": "Transformer fine-tuning, FlashAttention, Multi-Query Attention (MQA), Grouped-Query Attention (GQA), MLA, PagedAttention and scaling laws.",
+      "weeks": "Weeks 12 - 13",
+      "checkpoint": "Attention Optimization Checkpoint",
+      "milestone": "Optimize LLM Inference Memory & Throughput",
+      "skills": ["FlashAttention", "GQA", "MLA", "PagedAttention"],
+      "tools": ["PyTorch", "vLLM"],
+      "modules": [
+        {
+          "id": "03-A",
+          "title": "Finetuning Transformer Architectures",
+          "subtitle": "Hands-on training of DistilBERT, DistilGPT and T5 on custom task datasets.",
+          "overview": "Implement Transformer attention components and fine-tune encoder, decoder and encoder-decoder architectures on custom datasets.",
+          "topicGroups": [
+            {
+              "icon": "cpu",
+              "title": "Transformer Fine-Tuning",
+              "items": [
+                "Coding attention mechanisms in PyTorch",
+                "DistilBERT classification fine-tuning",
+                "Custom classification datasets",
+                "DistilGPT generation fine-tuning",
+                "Custom generation datasets",
+                "T5 Seq2Seq fine-tuning",
+                "Custom sequence-to-sequence datasets"
+              ]
+            }
+          ],
+          "keyOutcome": "Fine-tune encoder, decoder and encoder-decoder Transformer architectures on custom tasks."
+        },
+        {
+          "id": "03-B",
+          "title": "KV Cache & Modern Attention Variants",
+          "subtitle": "Optimizing inference speed and memory throughput using FlashAttention, GQA, MLA and vLLM PagedAttention.",
+          "overview": "Understand the memory and compute bottlenecks of autoregressive decoding and the modern attention mechanisms used to solve them.",
+          "topicGroups": [
+            {
+              "icon": "gauge",
+              "title": "KV Cache & Efficient Attention",
+              "items": [
+                "Naive decoding and O(N²) redundant computation",
+                "KV Cache mechanics",
+                "KV Cache memory calculations",
+                "FlashAttention 1",
+                "FlashAttention 2",
+                "FlashAttention 3",
+                "IO-aware GPU tiling",
+                "PyTorch SDPA"
+              ]
+            },
+            {
+              "icon": "network",
+              "title": "Attention Variants",
+              "items": [
+                "MHA memory bottleneck",
+                "Multi-Query Attention",
+                "Grouped-Query Attention",
+                "GQA in LLaMA-3",
+                "Multi-Head Latent Attention",
+                "MLA in DeepSeek models",
+                "PagedAttention",
+                "vLLM virtual memory management",
+                "RoPE"
+              ]
+            },
+            {
+              "icon": "sigma",
+              "title": "Scaling Laws",
+              "items": [
+                "Kaplan scaling laws",
+                "Chinchilla compute-optimal scaling",
+                "Tokens-to-parameters ratio",
+                "Dataset scaling mathematics",
+                "Compute budget allocation"
+              ]
+            }
+          ],
+          "keyOutcome": "Analyze and optimize LLM attention memory, throughput and compute requirements for production inference."
+        }
+      ]
+    },
+    {
+      "id": "phase-4",
+      "badge": "Phase 4",
+      "domain": "Phase 4",
+      "title": "Finetuning Language Models & PEFT",
+      "description": "Pre-training lifecycle, SFT, LoRA, QLoRA, DoRA, preference alignment (DPO, GRPO, ORPO), quantization and synthetic datasets.",
+      "weeks": "Weeks 14 - 16",
+      "checkpoint": "Model Training & Alignment Checkpoint",
+      "milestone": "Align, Quantize & Ship an Open-Weight LLM",
+      "skills": ["SFT", "LoRA", "QLoRA", "DPO", "GRPO"],
+      "tools": ["Hugging Face", "PEFT", "TRL", "Unsloth", "Axolotl"],
+      "modules": [
+        {
+          "id": "04-A",
+          "title": "Pre-training vs Post-training Lifecycle & Data Prep",
+          "subtitle": "Understanding pre-training objectives, continued pre-training (CPT) and instruction dataset engineering.",
+          "overview": "Understand the complete model lifecycle from pre-training and continued pre-training through instruction tuning and synthetic dataset engineering.",
+          "topicGroups": [
+            {
+              "icon": "layers",
+              "title": "Training Lifecycle",
+              "items": [
+                "Pre-training vs post-training",
+                "Base model capabilities",
+                "Base model limitations",
+                "Causal Language Modeling",
+                "Masked Language Modeling",
+                "Prefix Language Modeling",
+                "Continued Pre-Training",
+                "Domain adaptation",
+                "Compute budget tradeoffs",
+                "When CPT is appropriate",
+                "Multi-Token Prediction"
+              ]
+            },
+            {
+              "icon": "database",
+              "title": "Data Preparation",
+              "items": [
+                "CommonCrawl",
+                "RefinedWeb",
+                "Instruction-pair datasets",
+                "Chat-format datasets",
+                "ChatML templates",
+                "LLaMA-3 chat format",
+                "Mistral formatting",
+                "Loss masking",
+                "Dataset deduplication",
+                "Filtering pipelines"
+              ]
+            },
+            {
+              "icon": "sparkles",
+              "title": "Synthetic Data",
+              "items": [
+                "Self-Instruct",
+                "Alpaca-style datasets",
+                "Synthetic instruction generation",
+                "Data quality filtering"
+              ]
+            }
+          ],
+          "keyOutcome": "Engineer high-quality datasets and understand exactly where CPT, SFT and synthetic data fit into the model lifecycle."
+        },
+        {
+          "id": "04-B",
+          "title": "PEFT Techniques: LoRA, QLoRA, DoRA & AdaLoRA",
+          "subtitle": "Parameter-efficient fine-tuning math, 4-bit NF4 quantization and adapter architectures.",
+          "overview": "Master adapter-based fine-tuning techniques and the mathematics behind low-rank adaptation and quantized training.",
+          "topicGroups": [
+            {
+              "icon": "code",
+              "title": "PEFT Mathematics",
+              "items": [
+                "Intrinsic dimensionality",
+                "LoRA mathematics",
+                "W = W0 + BA",
+                "Rank selection",
+                "Alpha scaling",
+                "QLoRA",
+                "NF4 quantization",
+                "Double quantization",
+                "Paged optimizers",
+                "DoRA",
+                "Magnitude and direction decomposition",
+                "AdaLoRA",
+                "Adaptive rank allocation",
+                "LoRA+",
+                "Separate A/B learning rates"
+              ]
+            },
+            {
+              "icon": "sparkles",
+              "title": "Supervised Fine-Tuning",
+              "items": [
+                "SFT pipeline design",
+                "Instruction tuning",
+                "FLAN datasets",
+                "Alpaca datasets",
+                "OpenHermes datasets",
+                "Chat fine-tuning",
+                "Conversational fine-tuning",
+                "Reasoning fine-tuning",
+                "Domain-specific fine-tuning"
+              ]
+            }
+          ],
+          "keyOutcome": "Fine-tune an open-weight LLM efficiently using QLoRA and production-grade SFT datasets."
+        },
+        {
+          "id": "04-C",
+          "title": "Preference Alignment & Advanced Post-Training",
+          "subtitle": "Aligning LLMs with human preferences using DPO, GRPO, ORPO and RLHF.",
+          "overview": "Master modern post-training methods for aligning language models with human and programmatic preferences while preparing models for efficient deployment.",
+          "topicGroups": [
+            {
+              "icon": "brain",
+              "title": "Preference Alignment",
+              "items": [
+                "Why SFT alone is insufficient",
+                "Distribution shift",
+                "Verbosity bias",
+                "RLHF",
+                "PPO",
+                "Reward models",
+                "Critic networks",
+                "KL penalties",
+                "DPO",
+                "GRPO",
+                "ORPO"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "Quantization & Inference Preparation",
+              "items": [
+                "GPTQ",
+                "AWQ",
+                "BNB NF4",
+                "FP8",
+                "LoRA adapter merging",
+                "Multi-LoRA serving",
+                "vLLM",
+                "SGLang",
+                "GGUF",
+                "GGUML",
+                "llama.cpp",
+                "Speculative decoding"
+              ]
+            },
+            {
+              "icon": "boxes",
+              "title": "Training Tooling",
+              "items": [
+                "Hugging Face TRL",
+                "SFTTrainer",
+                "DPOTrainer",
+                "GRPOTrainer",
+                "ORPOTrainer",
+                "Unsloth",
+                "Axolotl",
+                "LLaMA-Factory",
+                "Together AI",
+                "AWS SageMaker fine-tuning"
+              ]
+            },
+            {
+              "icon": "database",
+              "title": "Synthetic Preference Data",
+              "items": [
+                "Instruction synthetic data",
+                "Preference synthetic data",
+                "Code synthetic data",
+                "LLM-as-Judge scoring",
+                "distilabel",
+                "DataDreamer",
+                "Argilla",
+                "Model collapse risks",
+                "Data poisoning prevention",
+                "End-to-end SFT dataset pipeline"
+              ]
+            }
+          ],
+          "keyOutcome": "Align, quantize and prepare an open-weight LLM for efficient production inference."
+        }
+      ]
+    },
+    {
+      "id": "phase-5",
+      "badge": "Phase 5",
+      "domain": "Phase 5",
+      "title": "Mixture of Experts & Reasoning Models",
+      "description": "Mixture of Experts (MoE) routing mechanisms, DeepSeek-R1-Zero reasoning models and chain-of-thought reinforcement learning.",
+      "weeks": "Week 17",
+      "checkpoint": "MoE & Reasoning Checkpoint",
+      "milestone": "Explain Sparse Routing & RL-Driven Reasoning",
+      "skills": ["MoE", "GRPO", "Reasoning Models"],
+      "tools": ["Mixtral", "DeepSeek-R1"],
+      "modules": [
+        {
+          "id": "05-A",
+          "title": "Mixture of Experts",
+          "subtitle": "Sparse expert activation, gating networks and load-balancing at scale.",
+          "overview": "Understand sparse expert architectures used by modern production models.",
+          "topicGroups": [
+            {
+              "icon": "network",
+              "title": "Mixture of Experts",
+              "items": [
+                "Dense-model scaling limitations",
+                "Sparse expert activation",
+                "Gating networks",
+                "Top-K routing",
+                "Router mathematics",
+                "Load-balancing loss",
+                "Auxiliary losses",
+                "Expert capacity",
+                "MoE training at scale",
+                "MoE inference",
+                "Memory vs compute tradeoffs",
+                "Mixtral 8x7B",
+                "DeepSeek-V3 256 experts",
+                "Production MoE models",
+                "MoE vs dense architectures"
+              ]
+            }
+          ],
+          "keyOutcome": "Explain how sparse expert routing enables larger models without proportional compute cost."
+        },
+        {
+          "id": "05-B",
+          "title": "Reasoning Models",
+          "subtitle": "DeepSeek-R1-Zero, rule-based rewards and GRPO-driven chain-of-thought reasoning.",
+          "overview": "Understand reinforcement-learning approaches used by modern reasoning models.",
+          "topicGroups": [
+            {
+              "icon": "brain",
+              "title": "Reasoning Models",
+              "items": [
+                "Reasoning model concept",
+                "System 1 vs System 2",
+                "Chain-of-Thought",
+                "Pure RL reasoning",
+                "SFT + RL reasoning",
+                "DeepSeek-R1-Zero",
+                "Rule-based rewards",
+                "GRPO reasoning",
+                "Reasoning trace distillation"
+              ]
+            }
+          ],
+          "keyOutcome": "Explain how reinforcement learning produces modern reasoning-capable models."
+        }
+      ]
+    },
+    {
+      "id": "phase-6",
+      "badge": "Phase 6",
+      "domain": "Phase 6",
+      "title": "Knowledge Distillation & Small Language Models",
+      "description": "SLM design philosophy, Liquid Foundation Models, soft labels, KL divergence and student-teacher pipeline construction.",
+      "weeks": "Week 18",
+      "checkpoint": "Distillation Checkpoint",
+      "milestone": "Build a Compact Specialized Model",
+      "skills": ["SLMs", "Distillation", "KL Divergence"],
+      "tools": ["Phi-3", "Gemma-2B"],
+      "modules": [
+        {
+          "id": "06-A",
+          "title": "Small Language Models (SLMs) & Edge AI",
+          "subtitle": "Building ultra-compact 1B-3B models with performance rivaling large LLMs.",
+          "overview": "Explore SLM design philosophy, edge deployment and training/fine-tuning of small models.",
+          "topicGroups": [
+            {
+              "icon": "cpu",
+              "title": "Small Language Models",
+              "items": [
+                "SLM design philosophy",
+                "Phi-3",
+                "Gemma-2B",
+                "LLaMA-3.2-1B",
+                "Latency optimization",
+                "Privacy advantages",
+                "Edge deployment",
+                "Data density",
+                "Liquid Foundation Models",
+                "Dynamical systems",
+                "Training SLMs from scratch",
+                "SLM fine-tuning",
+                "Reasoning trace distillation",
+                "SLM vs LLM tradeoffs"
+              ]
+            }
+          ],
+          "keyOutcome": "Design and deploy compact, edge-ready small language models."
+        },
+        {
+          "id": "06-B",
+          "title": "Knowledge Distillation Pipelines",
+          "subtitle": "Compressing teacher model knowledge into student networks using temperature scaling and KL loss.",
+          "overview": "Compress foundation-model capabilities into smaller student models.",
+          "topicGroups": [
+            {
+              "icon": "boxes",
+              "title": "Knowledge Distillation",
+              "items": [
+                "Teacher-student paradigm",
+                "Hard labels",
+                "Soft labels",
+                "Temperature scaling",
+                "KL divergence",
+                "Attention transfer",
+                "Hidden-state matching",
+                "Teacher logit generation",
+                "Student architecture design",
+                "Student training pipeline"
+              ]
+            }
+          ],
+          "keyOutcome": "Build a teacher-student distillation pipeline that compresses a large model into a compact one."
+        }
+      ]
+    },
+    {
+      "id": "phase-7",
+      "badge": "Phase 7",
+      "domain": "Phase 7",
+      "title": "Multimodal Vision Systems & Image Understanding",
+      "description": "Vision Transformers (ViT), CLIP, SigLIP, DINOv2 and Visual Language Models (VLMs) like LLaVA and Qwen-2-VL.",
+      "weeks": "Week 19",
+      "checkpoint": "Multimodal Vision Checkpoint",
+      "milestone": "Connect Vision Encoders to LLM Backbones",
+      "skills": ["ViT", "CLIP", "VLMs"],
+      "tools": ["LLaVA", "Qwen-2-VL"],
+      "modules": [
+        {
+          "id": "07-A",
+          "title": "Vision Foundations & Vision Transformers (ViT)",
+          "subtitle": "Patch embeddings, 2D positional encodings, self-attention on visual tokens and pre-trained encoders.",
+          "overview": "Bridge from CNNs to Vision Transformers and modern visual encoders.",
+          "topicGroups": [
+            {
+              "icon": "image",
+              "title": "Vision Transformers",
+              "items": [
+                "CNN-to-ViT conceptual bridge",
+                "ViT architecture",
+                "16x16 image patches",
+                "Patch embeddings",
+                "CLS token",
+                "2D positional encoding",
+                "Visual self-attention",
+                "Attention maps",
+                "CNN vs ViT inductive bias",
+                "CLIP",
+                "SigLIP",
+                "DINO",
+                "DINOv2"
+              ]
+            }
+          ],
+          "keyOutcome": "Implement and reason about Vision Transformer patch embeddings and self-attention."
+        },
+        {
+          "id": "07-B",
+          "title": "Visual Language Models (VLMs)",
+          "subtitle": "Connecting visual encoders with LLM backbones via linear projectors and cross-attention aligners.",
+          "overview": "Understand how visual encoders connect to LLM backbones to produce multimodal reasoning.",
+          "topicGroups": [
+            {
+              "icon": "network",
+              "title": "Visual Language Models",
+              "items": [
+                "VLM architecture",
+                "LLaVA",
+                "Qwen-2-VL",
+                "Gemini Vision",
+                "Visual encoder",
+                "ViT/SigLIP encoders",
+                "MLP projectors",
+                "Cross-attention aligners",
+                "Perceiver alignment",
+                "Vision-language feature spaces",
+                "Visual grounding"
+              ]
+            }
+          ],
+          "keyOutcome": "Explain and build the encoder-projector-LLM pipeline behind modern VLMs."
+        }
+      ]
+    },
+    {
+      "id": "phase-8",
+      "badge": "Phase 8",
+      "domain": "Phase 8",
+      "title": "Speech AI & Conversational Audio Systems",
+      "description": "Speech-to-Text (STT) foundations, Whisper architecture, acoustic dataset preparation and custom fine-tuning.",
+      "weeks": "Week 20",
+      "checkpoint": "Speech AI Checkpoint",
+      "milestone": "Fine-Tune Whisper on Domain Audio",
+      "skills": ["Whisper", "STT", "Audio Processing"],
+      "tools": ["Whisper API"],
+      "modules": [
+        {
+          "id": "08-A",
+          "title": "Speech AI & Fine-Tuning Whisper",
+          "subtitle": "Acoustic feature extraction, log-mel spectrograms, Whisper architecture and fine-tuning on domain audio.",
+          "overview": "Understand speech signal processing and build custom speech-to-text pipelines with Whisper.",
+          "topicGroups": [
+            {
+              "icon": "mic",
+              "title": "Speech AI",
+              "items": [
+                "Speech signal processing",
+                "Log-Mel spectrograms",
+                "Speech-to-Text",
+                "Whisper API",
+                "Whisper architecture",
+                "Audio Encoder-Decoder Transformer",
+                "Streaming chunking",
+                "Audio dataset preparation",
+                "Whisper fine-tuning",
+                "Domain accents",
+                "Domain-specific audio"
+              ]
+            }
+          ],
+          "keyOutcome": "Fine-tune Whisper on domain-specific audio and build streaming speech-to-text systems."
+        }
+      ]
+    },
+    {
+      "id": "phase-9",
+      "badge": "Phase 9",
+      "domain": "Phase 9",
+      "title": "Representation Learning & Embedding Systems",
+      "description": "Dense, sparse, quantized, binary and multi-vector (ColBERT) embeddings, Matryoshka Representation Learning (MRL) and embedding fine-tuning.",
+      "weeks": "Week 21",
+      "checkpoint": "Embedding Systems Checkpoint",
+      "milestone": "Select, Fine-Tune & Benchmark Embeddings",
+      "skills": ["Embeddings", "ColBERT", "MRL"],
+      "tools": ["BGE", "E5"],
+      "modules": [
+        {
+          "id": "09-A",
+          "title": "Advanced Embedding Taxonomy & MRL",
+          "subtitle": "Dense vs sparse signals, float32 to int8/binary quantization, ColBERT multi-vector and MRL dynamic dimensioning.",
+          "overview": "Understand modern embedding architectures from dense vectors through sparse lexical signals, quantized representations, ColBERT multi-vectors and Matryoshka embeddings.",
+          "topicGroups": [
+            {
+              "icon": "fingerprint",
+              "title": "Embedding Taxonomy",
+              "items": [
+                "Dense embeddings",
+                "BGE",
+                "E5",
+                "OpenAI text-embedding models",
+                "Sparse embeddings",
+                "SPLADE",
+                "BM25",
+                "Quantized embeddings",
+                "Float32 to Int8",
+                "Uint8 compression",
+                "Binary embeddings",
+                "Hamming distance",
+                "Multi-vector embeddings",
+                "ColBERT",
+                "ColPali"
+              ]
+            },
+            {
+              "icon": "layers",
+              "title": "Matryoshka Representation Learning",
+              "items": [
+                "MRL concept",
+                "Flexible embedding dimensions",
+                "Nested dimension loss",
+                "1536 to 256 dimension retrieval",
+                "Dynamic query-time dimensions"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "Embedding Fine-Tuning & Evaluation",
+              "items": [
+                "Multiple Negatives Ranking Loss",
+                "Embedding fine-tuning",
+                "Domain adaptation",
+                "MTEB benchmark",
+                "Embedding leaderboard analysis",
+                "State-of-the-art embedding evaluation"
+              ]
+            }
+          ],
+          "keyOutcome": "Select, fine-tune, compress and benchmark embeddings for enterprise retrieval workloads."
+        }
+      ]
+    },
+    {
+      "id": "phase-10",
+      "badge": "Phase 10",
+      "domain": "Phase 10",
+      "title": "Production RAG Systems",
+      "description": "LangChain 2026, LlamaIndex, Hybrid RAG, Self-RAG, Corrective RAG, Adaptive RAG, ColPali multimodal RAG, GraphRAG and RAG security.",
+      "weeks": "Weeks 22 - 24",
+      "checkpoint": "Production RAG Architecture Checkpoint",
+      "milestone": "Ship a Secure Enterprise RAG System",
+      "skills": ["Hybrid Search", "GraphRAG", "Multimodal RAG", "RAG Security"],
+      "tools": [
+        "LangChain",
+        "LlamaIndex",
+        "Pinecone",
+        "Qdrant",
+        "Neo4j",
+        "Redis"
+      ],
+      "modules": [
+        {
+          "id": "10-A",
+          "title": "LangChain & LlamaIndex Framework Ecosystems",
+          "subtitle": "Production RAG frameworks and data connectors.",
+          "overview": "Build production retrieval pipelines using LangChain and LlamaIndex with document loaders, vector stores, metadata filtering and query engines.",
+          "topicGroups": [
+            {
+              "icon": "code",
+              "title": "LangChain Ecosystem",
+              "items": [
+                "LangChain architecture",
+                "LLM integrations",
+                "Model abstraction",
+                "LCEL",
+                "Structured outputs",
+                "Output parsers",
+                "Tool calling",
+                "Function calling",
+                "Conversation memory",
+                "Document loaders",
+                "Text splitters",
+                "Embeddings",
+                "PGVector",
+                "Pinecone",
+                "Qdrant",
+                "Retrieval pipelines",
+                "Text-to-SQL",
+                "Callbacks",
+                "LangSmith telemetry",
+                "Multimodal integrations",
+                "Deep Agents"
+              ]
+            },
+            {
+              "icon": "database",
+              "title": "LlamaIndex Ecosystem",
+              "items": [
+                "Documents",
+                "Nodes",
+                "Chunking strategies",
+                "PDF/API/web/filesystem loaders",
+                "Embedding configuration",
+                "Chroma",
+                "FAISS",
+                "Pinecone",
+                "Qdrant",
+                "Vector Index",
+                "Summary Index",
+                "Keyword Index",
+                "Retrievers",
+                "Query engines",
+                "Metadata filtering",
+                "Hybrid search",
+                "Reranking",
+                "Response synthesis"
+              ]
+            }
+          ],
+          "keyOutcome": "Build production RAG applications using both major Python retrieval ecosystems."
+        },
+        {
+          "id": "10-B",
+          "title": "Advanced RAG Architectures & Vector Quantization",
+          "subtitle": "Hybrid, agentic, Self-RAG, CRAG and adaptive retrieval.",
+          "overview": "Move beyond vanilla RAG into sophisticated retrieval architectures with query transformation, reranking, reflection and vector compression.",
+          "topicGroups": [
+            {
+              "icon": "database",
+              "title": "RAG Foundations",
+              "items": [
+                "Vanilla RAG pipeline",
+                "RAG limitations",
+                "Embedding model selection",
+                "Fixed chunking",
+                "Sentence chunking",
+                "Recursive chunking",
+                "Semantic chunking"
+              ]
+            },
+            {
+              "icon": "network",
+              "title": "Advanced Retrieval",
+              "items": [
+                "BM25",
+                "SPLADE",
+                "ColBERT",
+                "Hybrid dense + sparse retrieval",
+                "Reciprocal Rank Fusion",
+                "Meta Hybrid RAG",
+                "Query rewriting",
+                "Sub-query decomposition",
+                "HyDE",
+                "Contextual retrieval",
+                "Anthropic contextual chunking",
+                "Agentic RAG"
+              ]
+            },
+            {
+              "icon": "brain",
+              "title": "Self-Reflective RAG",
+              "items": [
+                "RAG evaluation",
+                "Context precision",
+                "Context recall",
+                "Faithfulness",
+                "Answer relevance",
+                "Cohere Rerank",
+                "BGE-Reranker-v2",
+                "Cross-encoder reranking",
+                "Self-RAG",
+                "Corrective RAG",
+                "Fallback web search",
+                "Adaptive RAG",
+                "Complexity-based routing"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "Vector Quantization",
+              "items": [
+                "Scalar Quantization",
+                "SQ8",
+                "Binary Quantization",
+                "BQ",
+                "Product Quantization",
+                "PQ"
+              ]
+            }
+          ],
+          "keyOutcome": "Design retrieval architectures that dynamically select, transform, rerank and validate information."
+        },
+        {
+          "id": "10-C",
+          "title": "Multimodal RAG, Graph RAG, Caching & RAG Security",
+          "subtitle": "Visual retrieval, knowledge graphs and secure retrieval.",
+          "overview": "Build enterprise RAG systems capable of understanding complex documents, knowledge graphs, multimodal content and security boundaries.",
+          "topicGroups": [
+            {
+              "icon": "image",
+              "title": "Multimodal Document RAG",
+              "items": [
+                "ColPali visual page retrieval",
+                "Single-stage parsing",
+                "Dual-stage parsing",
+                "Layout detection",
+                "OCR",
+                "Structured layout chunking",
+                "Vision-language embeddings",
+                "Vision-language rerankers",
+                "Multimodal LLM document understanding",
+                "AWS Textract",
+                "Azure AI Document Intelligence",
+                "Google Cloud Document AI",
+                "LlamaParse",
+                "Docling",
+                "LiteParse"
+              ]
+            },
+            {
+              "icon": "network",
+              "title": "Graph RAG & Vectorless RAG",
+              "items": [
+                "Neo4j GraphRAG",
+                "Knowledge graph construction",
+                "Entity extraction",
+                "Relation extraction",
+                "Graph traversal",
+                "Vectorless RAG",
+                "PageIndex"
+              ]
+            },
+            {
+              "icon": "database",
+              "title": "Caching & Security",
+              "items": [
+                "Redis caching",
+                "GPTCache",
+                "Semantic caching",
+                "PII masking",
+                "Anonymization pipelines",
+                "Input guardrails",
+                "Output guardrails",
+                "Prompt injection defense",
+                "Retrieval-interface security"
+              ]
+            }
+          ],
+          "keyOutcome": "Ship a secure multimodal and graph-enhanced enterprise RAG system with caching and access controls."
+        }
+      ]
+    },
+    {
+      "id": "phase-11",
+      "badge": "Phase 11",
+      "domain": "Phase 11",
+      "title": "Agentic Systems: Core Architectures & Foundations",
+      "description": "Pydantic validation, LangGraph stateful graphs, PydanticAI type-safe agents, Pydantic Evals, MCP and A2A protocols.",
+      "weeks": "Weeks 25 - 26",
+      "checkpoint": "Agentic Systems Architecture Checkpoint",
+      "milestone": "Build a Stateful, Checkpointed Agent",
+      "skills": ["LangGraph", "PydanticAI", "Evals"],
+      "tools": ["LangGraph", "PydanticAI", "Logfire"],
+      "modules": [
+        {
+          "id": "11-A",
+          "title": "Pydantic Validation & LangGraph Stateful Agents",
+          "subtitle": "State management, dynamic routing, ReAct loops, human-in-the-loop checkpointing and LangGraph Platform.",
+          "overview": "Build reliable stateful agents using Pydantic contracts and LangGraph graph-based orchestration.",
+          "topicGroups": [
+            {
+              "icon": "code",
+              "title": "Pydantic Validation",
+              "items": [
+                "Pydantic installation",
+                "Models",
+                "Fields",
+                "Validators",
+                "JSON parsing",
+                "Type coercion",
+                "Dataclasses",
+                "Nested models",
+                "Validation decorators",
+                "Custom validators",
+                "Settings management"
+              ]
+            },
+            {
+              "icon": "gitbranch",
+              "title": "LangGraph Architecture",
+              "items": [
+                "LangGraph foundations",
+                "StateGraph",
+                "START and END",
+                "State management",
+                "Reducers",
+                "Nodes",
+                "Edges",
+                "Conditional routing",
+                "Tool calling",
+                "ReAct loops"
+              ]
+            },
+            {
+              "icon": "brain",
+              "title": "Agent State & Memory",
+              "items": [
+                "Human-in-the-loop interrupts",
+                "Approval workflows",
+                "Edit State",
+                "Checkpointers",
+                "Postgres persistence",
+                "MemorySaver",
+                "Subgraphs",
+                "Supervisor architectures",
+                "Multi-agent swarms",
+                "Streaming",
+                "Observability",
+                "LangGraph Platform"
+              ]
+            }
+          ],
+          "keyOutcome": "Build a stateful, checkpointed LangGraph agent with tool execution and human approval workflows."
+        },
+        {
+          "id": "11-B",
+          "title": "PydanticAI, Evals & Logfire Observability",
+          "subtitle": "Type-safe agent contracts, dependency injection, ModelRetry, Pydantic Evals and Logfire tracing.",
+          "overview": "Engineer type-safe agents using PydanticAI with structured outputs, dependency injection, retries, evaluations and tracing.",
+          "topicGroups": [
+            {
+              "icon": "bot",
+              "title": "PydanticAI Architecture",
+              "items": [
+                "PydanticAI architecture",
+                "Agents",
+                "Models",
+                "Runnable contracts",
+                "Provider configuration",
+                "Fallback models",
+                "Result types",
+                "Pydantic structured results",
+                "Union result types",
+                "Discriminated unions"
+              ]
+            },
+            {
+              "icon": "code",
+              "title": "Agent Tools & Validation",
+              "items": [
+                "Field validators",
+                "Model validators",
+                "Static system prompts",
+                "Dynamic system prompts",
+                "Instruction patterns",
+                "Dependency injection",
+                "deps_type",
+                "RunContext",
+                "Type-safe context",
+                "@agent.tool",
+                "RunContext tools",
+                "@agent.tool_plain",
+                "ModelRetry",
+                "Validation error handling"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "Streaming & Multi-Agent Systems",
+              "items": [
+                "stream_text",
+                "stream",
+                "astream_events",
+                "Multi-turn conversations",
+                "Message history",
+                "Context window management",
+                "Agent pipelines",
+                "Delegation",
+                "Handoffs",
+                "TestModel",
+                "FunctionModel",
+                "Agent unit testing"
+              ]
+            },
+            {
+              "icon": "chart",
+              "title": "Evals & Observability",
+              "items": [
+                "Pydantic Evals",
+                "Datasets",
+                "Evaluation cases",
+                "Experiment model",
+                "Built-in evaluators",
+                "Custom evaluators",
+                "LLM-as-a-Judge",
+                "Online evaluation",
+                "Logfire integration",
+                "Tracing",
+                "Metrics",
+                "Cost monitoring",
+                "FastAPI deployment",
+                "Sessions",
+                "Containerization"
+              ]
+            }
+          ],
+          "keyOutcome": "Build type-safe, testable agents with automated evaluation and production-grade observability."
+        }
+      ]
+    },
+    {
+      "id": "phase-12",
+      "badge": "Phase 12",
+      "domain": "Phase 12",
+      "title": "Agents: Orchestration, Protocols & Production",
+      "description": "Model Context Protocol (MCP), Agent-to-Agent Protocol (A2A), function calling mechanics and agent observability tools.",
+      "weeks": "Weeks 27 - 28",
+      "checkpoint": "Agent Protocols Checkpoint",
+      "milestone": "Connect Agents & Tools Through MCP and A2A",
+      "skills": ["MCP", "A2A", "Function Calling"],
+      "tools": ["FastMCP", "LangSmith", "Langfuse"],
+      "modules": [
+        {
+          "id": "12-A",
+          "title": "MCP (Model Context Protocol) Deep Dive",
+          "subtitle": "Architecture, host-client-server primitives, FastMCP, stdio and SSE transport layers, security boundaries and multi-server orchestration.",
+          "overview": "Master the standardized protocol for connecting agents to tools and resources across distributed systems.",
+          "topicGroups": [
+            {
+              "icon": "network",
+              "title": "Model Context Protocol",
+              "items": [
+                "Why MCP exists",
+                "Tool fragmentation problem",
+                "MCP Hosts",
+                "MCP Clients",
+                "MCP Servers",
+                "MCP Tools",
+                "MCP Resources",
+                "MCP Prompts",
+                "stdio transport",
+                "SSE transport",
+                "FastMCP server development",
+                "MCP client development",
+                "Remote MCP servers",
+                "MCP authentication",
+                "MCP authorization",
+                "Trust boundaries",
+                "Multi-server orchestration",
+                "MCP with LangGraph",
+                "MCP with Claude"
+              ]
+            }
+          ],
+          "keyOutcome": "Build and connect MCP servers and clients across a multi-tool agent system."
+        },
+        {
+          "id": "12-B",
+          "title": "A2A (Agent-to-Agent Protocol) & Function Calling",
+          "subtitle": "Inter-agent communication, Agent Cards discovery, task lifecycle states, parallel tool calls and custom tool execution loops.",
+          "overview": "Master agent interoperability and robust function execution alongside end-to-end observability of agent workflows.",
+          "topicGroups": [
+            {
+              "icon": "gitbranch",
+              "title": "Agent-to-Agent Protocol",
+              "items": [
+                "Why A2A exists",
+                "Agent interoperability",
+                "Agent Cards",
+                "Agent discovery",
+                "/.well-known/agent.json",
+                "A2A task lifecycle",
+                "Submitted state",
+                "Working state",
+                "Completed state",
+                "Failed state",
+                "Streaming states",
+                "HTTP transport",
+                "SSE transport",
+                "JSON-RPC messages",
+                "A2A server",
+                "A2A client",
+                "Remote agent delegation",
+                "A2A vs MCP"
+              ]
+            },
+            {
+              "icon": "code",
+              "title": "Function Calling",
+              "items": [
+                "LLM-to-tool communication",
+                "JSON Schema tool definitions",
+                "Parameter typing",
+                "Tool descriptions",
+                "Function calling lifecycle",
+                "Parallel tool calls",
+                "Forced tool selection",
+                "Required tool choice",
+                "No-tool choice",
+                "Specific tool selection",
+                "Structured output vs function calling",
+                "Tool executor loops"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "Agent Observability",
+              "items": [
+                "LangSmith tracing",
+                "LangSmith span telemetry",
+                "Dataset annotation",
+                "Logfire tracing",
+                "Span-level telemetry",
+                "Langfuse monitoring",
+                "Token monitoring",
+                "Cost monitoring",
+                "Latency monitoring",
+                "Multi-agent tracing",
+                "Tool execution traces",
+                "Agent handoff tracing",
+                "Failure analysis",
+                "Cost attribution",
+                "Latency analysis",
+                "Protocol-level observability"
+              ]
+            }
+          ],
+          "keyOutcome": "Connect multiple agents through A2A, execute robust function calls and trace multi-agent workflows end to end."
+        }
+      ]
+    },
+    {
+      "id": "phase-13",
+      "badge": "Phase 13",
+      "domain": "Phase 13",
+      "title": "Context Engineering & Harness Engineering",
+      "description": "Anatomy of context windows, context compression (LLMLingua, RECOMP), evaluation harnesses (lm-eval, Inspect AI) and E2B sandboxes.",
+      "weeks": "Weeks 29 - 30",
+      "checkpoint": "Context & Harness Engineering Checkpoint",
+      "milestone": "Evaluate Agents & Execute Code in Secure Sandboxes",
+      "skills": ["Context Engineering", "Agent Evals", "Sandboxing"],
+      "tools": ["Inspect AI", "E2B", "Docker"],
+      "modules": [
+        {
+          "id": "13-A",
+          "title": "Context Engineering & Compression",
+          "subtitle": "Maximizing context window efficiency, memory architectures (episodic, semantic, procedural) and context pruning.",
+          "overview": "Engineer the context supplied to LLMs and agents using retrieval, memory, structured tool results and compression.",
+          "topicGroups": [
+            {
+              "icon": "layers",
+              "title": "Context Construction",
+              "items": [
+                "Anatomy of the context window",
+                "System instructions",
+                "Conversation history",
+                "Retrieved context",
+                "Tool results",
+                "Structured data",
+                "Output constraints",
+                "RAG as context construction",
+                "Chunking impact on context quality"
+              ]
+            },
+            {
+              "icon": "brain",
+              "title": "Memory Architectures",
+              "items": [
+                "Short-term memory",
+                "Episodic memory",
+                "Semantic memory",
+                "Procedural memory",
+                "Conversation state",
+                "Context accumulation"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "Context Compression",
+              "items": [
+                "Context pruning",
+                "Context compression",
+                "LLMLingua",
+                "RECOMP",
+                "Long-context optimization",
+                "Tool-result compression",
+                "Retrieval context selection"
+              ]
+            }
+          ],
+          "keyOutcome": "Construct compact, relevant and high-signal context for long-running AI agents."
+        },
+        {
+          "id": "13-B",
+          "title": "Harness Engineering & Sandbox Execution",
+          "subtitle": "Building evaluation harnesses, Inspect AI task scorers, E2B/Docker code execution sandboxes and ReAct loop safeguards.",
+          "overview": "Build automated evaluation harnesses and secure execution environments for tool-using and coding agents.",
+          "topicGroups": [
+            {
+              "icon": "chart",
+              "title": "Evaluation Harnesses",
+              "items": [
+                "Harness engineering",
+                "Why ad-hoc testing fails",
+                "Evaluation harness fundamentals",
+                "lm-evaluation-harness",
+                "MMLU",
+                "GSM8K",
+                "TruthfulQA",
+                "Inspect AI",
+                "Task abstraction",
+                "Solver abstraction",
+                "Scorer abstraction",
+                "LLM-as-a-Judge",
+                "Judge calibration",
+                "Evaluation bias mitigation"
+              ]
+            },
+            {
+              "icon": "boxes",
+              "title": "Secure Execution",
+              "items": [
+                "E2B sandboxes",
+                "Modal sandboxes",
+                "Docker code execution",
+                "Secure tool execution",
+                "Agent checkpointing",
+                "LangGraph persistence",
+                "Interrupts"
+              ]
+            },
+            {
+              "icon": "shield",
+              "title": "ReAct Safety Harnesses",
+              "items": [
+                "Iteration guards",
+                "Fallback handlers",
+                "Token budgets",
+                "Execution time limits",
+                "Tool failure handling",
+                "Supervisor-worker contracts",
+                "Multi-agent execution harnesses"
+              ]
+            }
+          ],
+          "keyOutcome": "Evaluate agents automatically and execute untrusted agent-generated code inside controlled sandboxes."
+        }
+      ]
+    },
+    {
+      "id": "phase-14",
+      "badge": "Phase 14",
+      "domain": "Phase 14",
+      "title": "LLMOps & Observability",
+      "description": "Span-level tracing, LangSmith, Langfuse, Logfire, RAGAS evals, prompt caching, semantic Redis caching and token budgeting.",
+      "weeks": "Week 31",
+      "checkpoint": "LLMOps Checkpoint",
+      "milestone": "Instrument Production AI With End-to-End Telemetry",
+      "skills": ["LLMOps", "Tracing", "Cost Control"],
+      "tools": ["LangSmith", "Langfuse", "Logfire", "RAGAS"],
+      "modules": [
+        {
+          "id": "14-A",
+          "title": "Tracing, Evals, Cost & Caching",
+          "subtitle": "Production observability, cost optimization, token budget enforcement and semantic caching.",
+          "overview": "Operate production AI systems using tracing, evaluation, token accounting, caching, rate limiting and financial controls.",
+          "topicGroups": [
+            {
+              "icon": "gauge",
+              "title": "Tracing & Evaluation",
+              "items": [
+                "LangSmith tracing",
+                "Span telemetry",
+                "Langfuse token monitoring",
+                "Langfuse latency monitoring",
+                "Logfire span-level traces",
+                "RAGAS evaluation",
+                "Inspect AI evaluation",
+                "RAG validation",
+                "Agent validation"
+              ]
+            },
+            {
+              "icon": "database",
+              "title": "Caching & Cost Control",
+              "items": [
+                "Prompt caching",
+                "Anthropic prompt prefix caching",
+                "OpenAI prompt caching",
+                "Semantic caching",
+                "Redis caching",
+                "GPTCache",
+                "Token accounting",
+                "Rate limiting",
+                "Token budgets",
+                "Financial budget enforcement"
+              ]
+            }
+          ],
+          "keyOutcome": "Instrument production AI workloads with end-to-end telemetry, evaluation and automated cost controls."
+        }
+      ]
+    },
+    {
+      "id": "phase-15",
+      "badge": "Phase 15",
+      "domain": "Phase 15",
+      "title": "Production Infrastructure & Cloud Deployment",
+      "description": "Inference serving (vLLM, SGLang, llama.cpp), speculative decoding, Kubernetes (EKS), Docker, Helm and GitHub Actions CI/CD.",
+      "weeks": "Weeks 32 - 33",
+      "checkpoint": "Infrastructure Checkpoint",
+      "milestone": "Deploy a Scalable LLM Inference Platform",
+      "skills": ["Kubernetes", "vLLM", "CI/CD"],
+      "tools": ["vLLM", "SGLang", "Docker", "Kubernetes", "Helm", "AWS EKS"],
+      "modules": [
+        {
+          "id": "15-A",
+          "title": "Inference Serving & Cloud Orchestration",
+          "subtitle": "Deploying high-throughput model endpoints on AWS EKS, GCP Cloud Run and Kubernetes clusters.",
+          "overview": "Deploy high-throughput model-serving infrastructure using modern inference engines, Kubernetes and cloud-native CI/CD.",
+          "topicGroups": [
+            {
+              "icon": "server",
+              "title": "Inference Serving",
+              "items": [
+                "vLLM",
+                "SGLang",
+                "llama.cpp",
+                "High-throughput inference",
+                "Dynamic LoRA loading",
+                "Multi-adapter serving",
+                "Speculative decoding",
+                "Quantized inference",
+                "GGUF",
+                "AWQ",
+                "GPTQ",
+                "Continuous batching"
+              ]
+            },
+            {
+              "icon": "cloud",
+              "title": "Cloud Infrastructure",
+              "items": [
+                "AWS EKS",
+                "AWS ECR",
+                "AWS Batch",
+                "ECS Fargate",
+                "Kubernetes clusters",
+                "Helm charts",
+                "Cloud-native AI architecture"
+              ]
+            },
+            {
+              "icon": "code",
+              "title": "Containerization & CI/CD",
+              "items": [
+                "Docker",
+                "Multi-stage Docker builds",
+                "Lightweight AI containers",
+                "GitHub Actions",
+                "AI application CI/CD",
+                "Automated deployments",
+                "Production configuration management"
+              ]
+            }
+          ],
+          "keyOutcome": "Deploy a scalable LLM inference platform on Kubernetes with automated container builds and CI/CD."
+        }
+      ]
+    },
+    {
+      "id": "phase-16",
+      "badge": "Phase 16",
+      "domain": "Phase 16",
+      "title": "AI Security, Guardrails & RBAC",
+      "description": "Prompt injection defense, NVIDIA NeMo Guardrails, LlamaFirewall, Presidio PII, LiteLLM gateways and retrieval/prompt RBAC.",
+      "weeks": "Week 34",
+      "checkpoint": "Senior AI Engineer & Architect Checkpoint",
+      "milestone": "Deploy Secure Enterprise AI Infrastructure",
+      "skills": ["AI Security", "Guardrails", "RBAC", "Multi-Tenancy"],
+      "tools": ["NeMo Guardrails", "LiteLLM", "Presidio"],
+      "modules": [
+        {
+          "id": "16-A",
+          "title": "Guardrails, LLM Gateways & RBAC Security",
+          "subtitle": "Securing AI applications against prompt injection, data poisoning, PII leaks and unauthorized document access.",
+          "overview": "Secure enterprise AI applications against prompt injection, jailbreaks, data poisoning, PII exposure and unauthorized information access.",
+          "topicGroups": [
+            {
+              "icon": "shield",
+              "title": "Guardrails & Defense",
+              "items": [
+                "Direct prompt injection",
+                "Indirect prompt injection",
+                "Jailbreak prevention",
+                "PII filtering",
+                "Toxicity filtering",
+                "Output validation",
+                "NVIDIA NeMo Guardrails",
+                "Colang",
+                "LlamaFirewall",
+                "LLM Guard",
+                "AWS Bedrock Guardrails",
+                "Microsoft Presidio",
+                "PII detection",
+                "PII redaction",
+                "Data poisoning defense"
+              ]
+            },
+            {
+              "icon": "network",
+              "title": "LLM Gateways & Routing",
+              "items": [
+                "LLM gateway architecture",
+                "Load balancing",
+                "Automatic retries",
+                "Gateway metadata",
+                "Gateway observability",
+                "Gateway caching",
+                "LiteLLM Proxy",
+                "AWS Bedrock routing",
+                "Provider routing",
+                "Model fallback strategies"
+              ]
+            },
+            {
+              "icon": "lock",
+              "title": "Identity, RBAC & Enterprise Security",
+              "items": [
+                "Identity fundamentals",
+                "Authentication",
+                "Authorization",
+                "SAML assertions",
+                "JWT",
+                "RBAC",
+                "Retrieval-layer RBAC",
+                "Document-level tenant filtering",
+                "Prompt-layer RBAC",
+                "Dynamic system prompts by role",
+                "Multi-tenancy",
+                "Tenant isolation",
+                "Data isolation guarantees"
+              ]
+            },
+            {
+              "icon": "gauge",
+              "title": "Security Evaluation",
+              "items": [
+                "RAG security evaluation",
+                "Agent security evaluation",
+                "Prompt injection stress testing",
+                "Unauthorized retrieval testing",
+                "PII leakage testing",
+                "Tool authorization testing",
+                "Multi-tenant isolation testing"
+              ]
+            }
+          ],
+          "keyOutcome": "Deploy enterprise AI behind guardrails, secure gateways, PII protection and tenant-aware RBAC controls."
+        }
+      ]
+    }
+  ]
+}
