@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "postbuild": "next-sitemap",
+    "postinstall": "node scripts/copy-pdf-worker.cjs",
     "start": "next start",
     "lint": "eslint"
   },

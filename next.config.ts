@@ -11,9 +11,7 @@ const nextConfig: NextConfig = {
   serverExternalPackages: ["@napi-rs/canvas", "pdfjs-dist"],
 
   outputFileTracingIncludes: {
-    "/api/books/[bookId]/pages": [
-      "./node_modules/pdfjs-dist/legacy/build/pdf.worker.mjs",
-    ],
+    "/api/books/[bookId]/pages": ["./public/pdf.worker.mjs"],
   },
 };
 

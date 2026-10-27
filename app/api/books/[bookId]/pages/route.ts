@@ -4,14 +4,10 @@ import { createCanvas } from "@napi-rs/canvas";
 import { adminAuth, adminDb } from "@/firebase/Admin";
 import { Timestamp } from "firebase-admin/firestore";
 import * as pdfjsLib from "pdfjs-dist/legacy/build/pdf.mjs";
-import { createRequire } from "node:module";
+import path from "node:path";
 import { pathToFileURL } from "node:url";
 
-const nodeRequire = createRequire(`${process.cwd()}/package.json`);
-
-const pdfWorkerPath = nodeRequire.resolve(
-  "pdfjs-dist/legacy/build/pdf.worker.mjs"
-);
+const pdfWorkerPath = path.join(process.cwd(), "public", "pdf.worker.mjs");
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = pathToFileURL(pdfWorkerPath).href;
 
